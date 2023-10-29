@@ -9,12 +9,14 @@ Through telling stories with data, I hope to be able to craft and design a story
 
 # Portfolio
 
-## Assignment #1: Data Visualization #1 
+## Assignment #1 & 2: 
 Due: 11:59PM, 11/06 Monday
 
+### Data Visualization #1 
 
-## Assignment #2: Crafting for Clarity- Sketching Exercise Week 2
-Due: 11:59PM, 11/06 Monday
+
+## Crafting for Clarity- Sketching Exercise Week 2
+
 
 
 ## Assignment #3&4: Critique by Design
