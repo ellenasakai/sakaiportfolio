@@ -1,6 +1,6 @@
 | [home page](https://ellenasakai.github.io/sakaiportfolio/) |  [Final Project I](final-project-part-one) |
 
-<p style="width:50%;">
+<font color='3333333'> hi </font>
 
 # sakaiportfolio
 Public Portfolio for Telling Stories with Data 2023
