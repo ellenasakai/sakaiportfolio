@@ -10,21 +10,21 @@ Through telling stories with data, I hope to be able to craft and design a story
 # Portfolio
 
 ## Week 2 Assignment: 
-Due: 11:59PM, 11/06 Monday
+*Due: 11:59PM, 11/06 Monday*
 
 ### Data Visualization #1 
 ### Crafting for Clarity- Sketching Exercise Week 2
 
 
 ## Week 3 Assignment: 
-Due: 11:59PM, 11/15 Wednesday
+*Due: 11:59PM, 11/15 Wednesday*
 
 ### Critique by Design
 
 
 
 ## Week 4 Assignment: 
-Due: 11:59PM, 11/21 Tuesday
+*Due: 11:59PM, 11/21 Tuesday*
 
 ### Choosing Chart Types- Sketching Exercise Week 4
 ### Final Project- Part I
@@ -33,7 +33,7 @@ Due: 11:59PM, 11/21 Tuesday
 
 
 ## Week 5 Assignment
-Due: 11:59PM, 11/28 Tuesday
+*Due: 11:59PM, 11/28 Tuesday*
 
 ### Practicing Persuasion- Sketching Exercise Week 5
 ### Final Project- Part II
@@ -41,7 +41,7 @@ Due: 11:59PM, 11/28 Tuesday
 
 
 ## Week 6 Assignment
-Due: 11:59PM, 12/08 Friday
+*Due: 11:59PM, 12/08 Friday*
 
 ### Final Project- Part III
 ### Cleaning up Online Portfolio
