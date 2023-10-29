@@ -20,12 +20,13 @@ Due: 11:59PM, 11/06 Monday
 ## Assignment #3&4: Critique by Design
 Due: 11:59PM, 11/15 Wednesday
 
-_
+
 ## Assignment #5: Choosing Chart Types- Sketching Exercise Week 4
 Due: 11:59PM, 11/21 Tuesday
 
 
 ## Assignment #6a: Final Project- Part I
+Due: 11:59PM, 11/21 Tuesday
 
 
 ## Assignment #6b: Final Project- Part I Avoiding plagiarism Quiz 
