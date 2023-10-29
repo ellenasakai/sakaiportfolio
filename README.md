@@ -33,8 +33,7 @@ Through telling stories with data, I hope to be able to craft and design a story
 *Due: 11:59PM, 11/21 Tuesday*
 
 ### Choosing Chart Types- Sketching Exercise Week 4
-### Final Project- Part I
-[Part I](final-project-part-one)
+### Final Project- [Part I](final-project-part-one)
 ### Final Project- Part I Avoiding Plagiarism Quiz 
 
 
