@@ -34,7 +34,8 @@ Through telling stories with data, I hope to be able to craft and design a story
 
 ### Choosing Chart Types- Sketching Exercise Week 4
 ### Final Project- Part I
-### Final Project- Part I Avoiding plagiarism Quiz 
+[Part I](final-project-part-one)
+### Final Project- Part I Avoiding Plagiarism Quiz 
 
 
 
