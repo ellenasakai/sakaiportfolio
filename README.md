@@ -16,10 +16,14 @@ Through telling stories with data, I hope to be able to craft and design a story
 ### Crafting for Clarity- Sketching Exercise Week 2
 
 
+
+
 ## Week 3 Assignment: 
 *Due: 11:59PM, 11/15 Wednesday*
 
 ### Critique by Design
+
+
 
 
 
@@ -32,6 +36,8 @@ Through telling stories with data, I hope to be able to craft and design a story
 
 
 
+
+
 ## Week 5 Assignment
 *Due: 11:59PM, 11/28 Tuesday*
 
@@ -40,11 +46,15 @@ Through telling stories with data, I hope to be able to craft and design a story
 
 
 
+
+
 ## Week 6 Assignment
 *Due: 11:59PM, 12/08 Friday*
 
 ### Final Project- Part III
 ### Cleaning up Online Portfolio
+
+
 
 
 
