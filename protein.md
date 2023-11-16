@@ -9,7 +9,7 @@
 
 
 ## 1. Select a Visualization to redesign from MakeoverMonday
-Original Visualization
+[Original Visualization](ogviz)
 
 ## 2. Critique the Visualization
 Add Link to Critique
