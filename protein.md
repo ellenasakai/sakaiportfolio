@@ -27,11 +27,9 @@
 
 ## 3. Sketch out a Solution
 
-**Sketch One**
+**Sketch One** <img src="sketch2.jpeg" width="400"/>
 
-
-**Sketch Two**
-<img src="sketch2.jpeg" width="500"/>
+**Sketch Two** <img src="sketch2.jpeg" width="400"/>
 
 ## 4. Test the Solution
 
