@@ -9,7 +9,7 @@
 
 
 ## 1. Select a Visualization to redesign from MakeoverMonday
-> Original Visualization
+> Original Visualization: [The Cheapest Ways to Get Your Protein Summary](https://data.world/makeovermonday/2023w8/workspace/project-summary?agentid=makeovermonday&datasetid=2023w8)
 <img src="ogviz.jpeg" width="500"/>
 
 ## 2. Critique the Visualization
