@@ -28,7 +28,7 @@
 ## 3. Sketch out a Solution
 
 > **Sketch One**
-  <img src="sketch2.jpeg" width="400"/>
+  <img src="sketch1.jpeg" width="400"/>
 
 > **Sketch Two**
   <img src="sketch2.jpeg" width="400"/>
