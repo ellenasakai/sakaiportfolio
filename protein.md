@@ -63,10 +63,10 @@
 | Questions | Student, Mid 20's |
 |-----------|---------------------|
 | Can you tell me what you think this is? | "A graph comparing the cost per 30 graphs of protein between different food sources." |
-| Can you describe to me what this is telling you? | "That plant protein (quorn specifically) has the highest cost per 30grams of protein of all the listed foods on the chart." |
+| Can you describe to me what this is telling you? | "That plant protein (quorn specifically) has the highest cost per 30 grams of protein of all the listed foods on the chart." |
 | Is there anything you find surprising or confusing? | 	"Not really." |
 | Who do you think is the intended audience for this? | "Dieticians, people considering a new diet or wanting to find alternative and cheaper sources of protein." |
-| Is there anything you would change or do differently? | "I feel like it might make more sense to lay the graph out horizontally? Quoarn Salmon and Protein bars have the largest bar which initially made me think they were good at whatever the chart was identifying, but if they have the highest cost per 30g then they are the options I wouldn’t want. If the graph was laid out horizontally without categories, having the lowest cost per 30g at the top then it might visually represent that those are the best options more clearly, although it depends on what the goal of the chart is I suppose." |
+| Is there anything you would change or do differently? | "I feel like it might make more sense to lay the graph out horizontally? Quorn Salmon and Protein bars have the largest bar which initially made me think they were good at whatever the chart was identifying, but if they have the highest cost per 30g then they are the options I wouldn’t want. If the graph was laid out horizontally without categories, having the lowest cost per 30g at the top then it might visually represent that those are the best options more clearly, although it depends on what the goal of the chart is I suppose." |
 
 > Interview Results: *Interviewee #3*
 
@@ -92,7 +92,20 @@
 
 ## 5. Build Your Solution
 
-> **Redesigned Visualization** : Bang for Your Buck: Protein and Calories
+> **Redesigned Visualization Changes and Analysis**
+
+*Talk about what your redesigned data visualization shows:*
+
+My redesigned data visualization shows a comparison of Cost and Calorie Content per 30 grams of Protein. Specifically, the visualization allows for users to look at a specific category of Protein: Animal, Plant, or Dairy-based Protein. This decision was influenced by attempting to allow viewers to focus on their protein category of choice. For those who might not eat Animal-based protein, the original visualization did not allow viewers to sift through and compare plant and/or dairy products easily.
+
+On the MakeoverMonday dataset website, the "The Cheapest Ways to Get Your Protein" link included (1) an article with a detailed breakdown of protein and prices for every **20 grams** of protein and (2) a chart that broke down protein prices and calories for every **30 grams** of protein. For my redesign, I decided to stick with the chart as I felt the 30 grams represented more of an accurate amount of protein **per meal** for the average individual. 
+
+*What you attempted to show or do differently:*
+
+I aimed to incorporate the calorie count into the visualization by taking a deliberate and focused approach to explore diverse ways of presenting this information. In the original visualization, placing the calorie count on top of each bar which was misleading as it forced the eyes to compare it with the Y-axis prices, despite the units being different. To combat this issue, I chose to use varying widths for each bar: narrower widths denoting fewer calories and wider widths representing higher calorie content. To further increase readability, I included the dollar values above the bar graphs and kept the images of products, recognizing their importance in comparing different items at a glance. Moreover, for streamlined organization and differentiation, I assigned distinct colors to specific protein categories, striving for consistency in associating each category with its respective/corresponding color. 
+
+
+
 
 <div class='tableauPlaceholder' id='viz1700104693061' style='position: relative'><noscript><a href='#'><img alt='Dashboard 2 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ba&#47;BangforYourBuck-ProteinandCalories&#47;Dashboard2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='BangforYourBuck-ProteinandCalories&#47;Dashboard2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ba&#47;BangforYourBuck-ProteinandCalories&#47;Dashboard2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>              
 <script type='text/javascript'>                  
@@ -114,18 +127,4 @@
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                                                  
   vizElement.parentNode.insertBefore(scriptElement, vizElement);             
 </script>
-
-
-> **Redesigned Visualization Changes and Analysis**
-
-*Talk about what your redesigned data visualization shows:*
-
-My redesigned data visualization shows a comparison of Cost and Calorie Content per 30 grams of Protein. Specifically, the visualization allows for users to look at a specific category of Protein: Animal, Plant, or Dairy-based Protein. This decision was influenced by attempting to allow viewers to focus on their protein category of choice. For those who might not eat Animal-based protein, the original visualization did not allow viewers to sift through and compare plant and/or dairy products easily.
-
-On the MakeoverMonday dataset website, the "The Cheapest Ways to Get Your Protein" link included (1) an article with a detailed breakdown of protein and prices for every **20 grams** of protein and (2) a chart that broke down protein prices and calories for every **30 grams** of protein. For my redesign, I decided to stick with the chart as I felt the 30 grams represented more of an accurate amount of protein **per meal** for the average individual. 
-
-*What you attempted to show or do differently:*
-
-I aimed to incorporate the calorie count into the visualization by taking a deliberate and focused approach to explore diverse ways of presenting this information. In the original visualization, placing the calorie count on top of each bar which was misleading as it forced the eyes to compare it with the Y-axis prices, despite the units being different. To combat this issue, I chose to use varying widths for each bar: narrower widths denoting fewer calories and wider widths representing higher calorie content. To further increase readability, I included the dollar values above the bar graphs and kept the images of products, recognizing their importance in comparing different items at a glance. Moreover, for streamlined organization and differentiation, I assigned distinct colors to specific protein categories, striving for consistency in associating each category with its respective/corresponding color. 
-
 
