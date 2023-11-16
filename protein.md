@@ -11,8 +11,7 @@
 ## 1. Select a Visualization to redesign from MakeoverMonday
 > Original Visualization: [The Cheapest Ways to Get Your Protein Summary](https://www.thebodybuildingdietitians.com/blog/how-cost-effective-is-your-high-protein-diet)
 
-transform: rotate(90deg); <img src="ogviz.jpeg" width="500"/> 
-
+<img src="ogviz.jpeg" width="500"/> 
 
 
 ## 2. Critique the Visualization
