@@ -8,8 +8,8 @@
   5. Build Your Solution
 
 
-## 1. Select a visualization to redesign from MakeoverMonday
-Original visualization
+## 1. Select a Visualization to redesign from MakeoverMonday
+Original Visualization
 
 ## 2. Critique the Visualization
 Add Link to Critique
