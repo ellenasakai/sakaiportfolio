@@ -1,4 +1,4 @@
-| [home page](https://ellenasakai.github.io/sakaiportfolio/) |  [Final Project I](final-project-part-one) | [Visualizing Government Debt](dataviz2)
+| [home page](https://ellenasakai.github.io/sakaiportfolio/) |  [Final Project I](final-project-part-one) | [Visualizing Government Debt](governmentdebt)
 
 # Assignment: Visualizing *Government Debt* using Tableau
   1. *General Government Debt* Data Visualization
