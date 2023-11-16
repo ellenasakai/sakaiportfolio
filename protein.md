@@ -67,6 +67,18 @@
 | Who do you think is the intended audience for this? | xx |
 | Is there anything you would change or do differently? | xx |
 
+> Interview Results: Overall Analysis
+> Once you've documented your feedback, look across all interviews for any similarities and differences. What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign.  Document those in your writeup heading into Step Five.   The feedback from this step should help guide your final redesign.
+| Similarities | Differences |
+|--------------|-------------|
+| xx | xx |
+| xx | xx |
+| xx | xx |
+| xx | xx |
+| xx | xx |
+
+
+
 ## 5. Build Your Solution
 
 > **Redesigned Visualization**
