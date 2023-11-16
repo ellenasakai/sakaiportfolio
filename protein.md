@@ -14,13 +14,14 @@
 
 ## 2. Critique the Visualization
 > Using Stephen Few's [Data Visualization Effectiveness Profile](http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf) Criteria, the above visualization got the following scores...
-  * Usefulness: 8
-  * Completeness: 6
-  * Perceptibility: 6
-  * Truthfulness: 6
-  * Intuitiveness: 9
-  * Aesthetics: 6
-  * Engagement: 9
+
+  * <font color="#964B00">Usefulness</font>: 8
+  * <font color="#964B00">Completeness</font>: 6
+  * <font color="#964B00">Perceptibility</font>: 6
+  * <font color="#964B00">Truthfulness</font>: 6
+  * <font color="#964B00">Intuitiveness</font>: 9
+  * <font color="#964B00">Aesthetics</font>: 6
+  * <font color="#964B00">Engagement</font>: 9
 
 ## 3. Sketch out a Solution
 
