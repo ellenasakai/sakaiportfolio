@@ -41,34 +41,36 @@
 
 | Questions | Student, early 20's |
 |-----------|---------------------|
-| Can you tell me what you think this is? | This is a bar chart with different types of protein. |
-| Can you describe to me what this is telling you? | This graph is telling me the cost per 30 grams of protein for three different categories of protein: Animal, plant, and dairy. It also includes the amount of calories for each different, specific type. |
-| Is there anything you find surprising or confusing? | Just from looking at the graph, I find it difficult to understand whether the calorie counts are for each specific type of protein. I’m not too sure whether these counts are for a 30g serving or for 1 serving size as is generally recommended for a 2000 calorie diet. I find it surprising that tofu has more calories per serving than chicken, but the lack of inclusion of the actual calorie count makes it difficult to compare with yogurt. I understand that you probably just forgot to include it, but it should be there. |
-| Who do you think is the intended audience for this? |	I feel like the intended audience is people who are interested in saving money, but healthily maximizing their protein intake. Also people who have different dietary restrictions would appreciate the separation of the highest-level categories of proteins. |
-| Is there anything you would change or do differently? | If there was anything I’d change about the graph it would be to include a caption briefly explaining the calorie counts or to include it in the title/subtitle of the graph. Also, maybe providing the calories as different data points and having a third axis on the right-hand side might help compare the calories better. |
+| Can you tell me what you think this is? | "This is a bar chart with different types of protein." |
+| Can you describe to me what this is telling you? | "This graph is telling me the cost per 30 grams of protein for three different categories of protein: Animal, plant, and dairy. It also includes the amount of calories for each different, specific type." |
+| Is there anything you find surprising or confusing? | "Just from looking at the graph, I find it difficult to understand whether the calorie counts are for each specific type of protein. I’m not too sure whether these counts are for a 30g serving or for 1 serving size as is generally recommended for a 2000 calorie diet. I find it surprising that tofu has more calories per serving than chicken, but the lack of inclusion of the actual calorie count makes it difficult to compare with yogurt. I understand that you probably just forgot to include it, but it should be there." |
+| Who do you think is the intended audience for this? |	"I feel like the intended audience is people who are interested in saving money, but healthily maximizing their protein intake. Also people who have different dietary restrictions would appreciate the separation of the highest-level categories of proteins." |
+| Is there anything you would change or do differently? | "If there was anything I’d change about the graph it would be to include a caption briefly explaining the calorie counts or to include it in the title/subtitle of the graph. Also, maybe providing the calories as different data points and having a third axis on the right-hand side might help compare the calories better." |
 
 > Interview Results: *Interviewee #2*
 
 | Questions | Student, Mid 20's |
 |-----------|---------------------|
-| Can you tell me what you think this is? | xx |
-| Can you describe to me what this is telling you? | xx |
-| Is there anything you find surprising or confusing? | xx |
-| Who do you think is the intended audience for this? | xx |
-| Is there anything you would change or do differently? | xx |
+| Can you tell me what you think this is? | "A graph comparing the cost per 30 graphs of protein between different food sources." |
+| Can you describe to me what this is telling you? | "That plant protein (quorn specifically) has the highest cost per 30grams of protein of all the listed foods on the chart." |
+| Is there anything you find surprising or confusing? | 	"Not really." |
+| Who do you think is the intended audience for this? | "Dieticians, people considering a new diet or wanting to find alternative and cheaper sources of protein." |
+| Is there anything you would change or do differently? | "I feel like it might make more sense to lay the graph out horizontally? Quoarn Salmon and Protein bars have the largest bar which initially made me think they were good at whatever the chart was identifying, but if they have the highest cost per 30g then they are the options I wouldn’t want. If the graph was laid out horizontally without categories, having the lowest cost per 30g at the top then it might visually represent that those are the best options more clearly, although it depends on what the goal of the chart is I suppose." |
 
 > Interview Results: *Interviewee #3*
 
 | Questions | Student, Mid 30's |
 |-----------|---------------------|
-| Can you tell me what you think this is? | xx |
-| Can you describe to me what this is telling you? | xx |
-| Is there anything you find surprising or confusing? | xx |
-| Who do you think is the intended audience for this? | xx |
-| Is there anything you would change or do differently? | xx |
+| Can you tell me what you think this is? | "Breaking protein out by price and type." |
+| Can you describe to me what this is telling you? | "I think you’re trying to break protein type out by category." |
+| Is there anything you find surprising or confusing? | "I don’t know what the circles at the end on the bars mean & your say per 30 g of protein but you count by ones & what is WPI." |
+| Who do you think is the intended audience for this? | "All those who want to find out how much protein they are in taking." |
+| Is there anything you would change or do differently? | "Move plant, animal, and dairy to the bottom and use color to categorize." |
+
 
 > Interview Results: Overall Analysis
 > Once you've documented your feedback, look across all interviews for any similarities and differences. What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign.  Document those in your writeup heading into Step Five.   The feedback from this step should help guide your final redesign.
+
 | Similarities | Differences |
 |--------------|-------------|
 | xx | xx |
@@ -103,4 +105,14 @@
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                                                  
   vizElement.parentNode.insertBefore(scriptElement, vizElement);             
 </script>
+
+
+> **Redesigned Visualization Changes and Analysis**
+> Talk about what your redesigned data visualization shows:
+  My redesigned data visualization shows a comparison of Cost and Calorie Content per 30 grams of Protein. Specifically, the visualization allows for users to look at a specific category of Protein: Animal, Plant, or Dairy-based Protein. This decision was influenced by attempting to allow viewers to focus on their protein category of choice. For those who might not eat Animal-based protein, the original visualization did not allow viewers to sift through and compare plant and/or dairy products easily.
+  On the MakeoverMonday dataset website, the "The Cheapest Ways to Get Your Protein" link included (1) an article with a detailed breakdown of protein and prices for every **20 grams** of protein and (2) a chart that broke down protein prices and calories for every **30 grams** of protein. For my redesign, I decided to stick with the chart as I felt the 30 grams represented more of an accurate amount of protein **per meal** for the average individual. 
+
+> What you attempted to show or do differently:
+  I wanted to include the calorie count within the visualization but focused on finding different ways to represent the calorie count. The original visualization included the calories on top of each bar 
+
 
