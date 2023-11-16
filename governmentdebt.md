@@ -1,4 +1,4 @@
-| [Home Page](https://ellenasakai.github.io/sakaiportfolio/) |  [Final Project I](final-project-part-one) | [Visualizing Government Debt](governmentdebt)  | [Visualizing Protein Costs and Categories](protein)
+| [Home Page](https://ellenasakai.github.io/sakaiportfolio/) | [Visualizing Government Debt](governmentdebt) | [Visualizing Protein Costs and Categories](protein) | [Final Project I](final-project-part-one) |
 
 # Assignment: Visualizing *Government Debt* using Tableau
   1. *General Government Debt* Data Visualization
