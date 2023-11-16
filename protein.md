@@ -13,7 +13,14 @@
 <img src="ogviz.jpeg" width="500"/>
 
 ## 2. Critique the Visualization
-Add Link to Critique
+> Using Stephen Few's [Data Visualization Effectiveness Profile](http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf) Criteria, the above visualization got the following scores...
+  * Usefulness: 8
+  * Completeness: 6
+  * Perceptibility: 6
+  * Truthfulness: 6
+  * Intuitiveness: 9
+  * Aesthetics: 6
+  * Engagement: 9
 
 ## 3. Sketch out a Solution
 
