@@ -37,7 +37,7 @@
 
 ## 4. Test the Solution
 
-> Interview Results: Interviewee #1
+> Interview Results: *Interviewee #1*
 
 | Questions | Student, early 20's |
 |-----------|---------------------|
@@ -47,7 +47,7 @@
 | Who do you think is the intended audience for this? |	I feel like the intended audience is people who are interested in saving money, but healthily maximizing their protein intake. Also people who have different dietary restrictions would appreciate the separation of the highest-level categories of proteins. |
 | Is there anything you would change or do differently? | If there was anything I’d change about the graph it would be to include a caption briefly explaining the calorie counts or to include it in the title/subtitle of the graph. Also, maybe providing the calories as different data points and having a third axis on the right-hand side might help compare the calories better. |
 
-> Interview Results: Interviewee #2
+> Interview Results: *Interviewee #2*
 
 | Questions | Student, Mid 20's |
 |-----------|---------------------|
@@ -57,7 +57,7 @@
 | Who do you think is the intended audience for this? | xx |
 | Is there anything you would change or do differently? | xx |
 
-> Interview Results: Interviewee #3
+> Interview Results: *Interviewee #3*
 
 | Questions | Student, Mid 30's |
 |-----------|---------------------|
@@ -69,7 +69,8 @@
 
 ## 5. Build Your Solution
 
-Redesigned Visualization
+> **Redesigned Visualization**
+
 <div class='tableauPlaceholder' id='viz1700104693061' style='position: relative'><noscript><a href='#'><img alt='Dashboard 2 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ba&#47;BangforYourBuck-ProteinandCalories&#47;Dashboard2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='BangforYourBuck-ProteinandCalories&#47;Dashboard2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ba&#47;BangforYourBuck-ProteinandCalories&#47;Dashboard2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>              
 <script type='text/javascript'>                  
   var divElement = document.getElementById('viz1700104693061');                
