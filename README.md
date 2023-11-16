@@ -17,7 +17,7 @@ Through telling stories with data, I hope to be able to craft and design a story
 ### Data Visualization #1 
 ### Crafting for Clarity- Sketching Exercise Week 2
 
-## Week 3 Assignment: 
+## Week 3 Assignment: Critique by Design with Tableau (MakeoverMonday)
 *Due: 11:59PM, 11/15 Wednesday*
 
 ### Critique by Design
