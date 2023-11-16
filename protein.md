@@ -73,7 +73,7 @@
 
 | Questions | Similarities | Differences |
 |--------------|-------------|-------------|
-| Can you tell me what you think this is? | * similar assessments of what the graph is * generally able to decipher what is going on | N/A |
+| Can you tell me what you think this is? | * similar assessments of what the graph is, generally able to decipher what is going on | N/A |
 | Can you describe to me what this is telling you? | * similar understanding of protein categorization | * Interviewee 2 concluded **quorn** had highest cost of protein out of all foods |
 | Is there anything you find surprising or confusing? | * Interviewee 1&3 found difficulty with units  | N/A |
 | Who do you think is the intended audience for this? | *similar understanding of who the audience might be, in this case all three interviewees said people who are interested in their protein intake * Interviewee 1&2 focused on Cost | * Super interesting to see Interviewee 2s answer: where Dieticians would be the audience for this visualization (Something that did not cross my mind personally)|
