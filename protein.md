@@ -57,7 +57,15 @@
 | Who do you think is the intended audience for this? | xx |
 | Is there anything you would change or do differently? | xx |
 
+> Interview Results: Interviewee #3
 
+| Questions | Student, Mid 30's |
+|-----------|---------------------|
+| Can you tell me what you think this is? | xx |
+| Can you describe to me what this is telling you? | xx |
+| Is there anything you find surprising or confusing? | xx |
+| Who do you think is the intended audience for this? | xx |
+| Is there anything you would change or do differently? | xx |
 
 ## 5. Build Your Solution
 
