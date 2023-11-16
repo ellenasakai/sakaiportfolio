@@ -71,14 +71,13 @@
 > Interview Results: Overall Analysis
 > Once you've documented your feedback, look across all interviews for any similarities and differences. What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign.  Document those in your writeup heading into Step Five.   The feedback from this step should help guide your final redesign.
 
-| Similarities | Differences |
-|--------------|-------------|
-| xx | xx |
-| xx | xx |
-| xx | xx |
-| xx | xx |
-| xx | xx |
-
+| Questions | Similarities | Differences |
+|--------------|-------------|-------------|
+| Can you tell me what you think this is? | * similar assessments of what the graph is * generally able to decipher what is going on | N/A |
+| Can you describe to me what this is telling you? | * similar understanding of protein categorization | * Interviewee 2 concluded **quorn** had highest cost of protein out of all foods |
+| Is there anything you find surprising or confusing? | * Interviewee 1&3 found difficulty with units  | N/A |
+| Who do you think is the intended audience for this? | *similar understanding of who the audience might be, in this case all three interviewees said people who are interested in their protein intake * Interviewee 1&2 focused on Cost | * Super interesting to see Interviewee 2s answer: where Dieticians would be the audience for this visualization (Something that did not cross my mind personally)|
+| Is there anything you would change or do differently? | * similar conclusions in wanting to see a graph that is easier to read | * three different suggestions: (1) making calories easier to read, (2) formatting and organizing the costs so that it is obvious that cheaper, lower costs are preferred and better, (3) formatting and readability of the bars and x-axis labels|
 
 
 ## 5. Build Your Solution
