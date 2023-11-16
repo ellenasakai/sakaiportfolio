@@ -94,13 +94,13 @@
 
 > **Redesigned Visualization Changes and Analysis**
 
-*<u>Talk about what your redesigned data visualization shows:<u>*
+<u>Talk about what your redesigned data visualization shows:<u>
 
 My redesigned data visualization shows a comparison of Cost and Calorie Content per 30 grams of Protein. Specifically, the visualization allows for users to look at a specific category of Protein: Animal, Plant, or Dairy-based Protein. This decision was influenced by attempting to allow viewers to focus on their protein category of choice. For those who might not eat Animal-based protein, the original visualization did not allow viewers to sift through and compare plant and/or dairy products easily.
 
 On the MakeoverMonday dataset website, the "The Cheapest Ways to Get Your Protein" link included (1) an article with a detailed breakdown of protein and prices for every **20 grams** of protein and (2) a chart that broke down protein prices and calories for every **30 grams** of protein. For my redesign, I decided to stick with the chart as I felt the 30 grams represented more of an accurate amount of protein **per meal** for the average individual. 
 
-*<u>What you attempted to show or do differently:<u>*
+<u>What you attempted to show or do differently:<u>
 
 I aimed to incorporate the calorie count into the visualization by taking a deliberate and focused approach to explore diverse ways of presenting this information. In the original visualization, placing the calorie count on top of each bar which was misleading as it forced the eyes to compare it with the Y-axis prices, despite the units being different. To combat this issue, I chose to use varying widths for each bar: narrower widths denoting fewer calories and wider widths representing higher calorie content. To further increase readability, I included the dollar values above the bar graphs and kept the images of products, recognizing their importance in comparing different items at a glance. Moreover, for streamlined organization and differentiation, I assigned distinct colors to specific protein categories, striving for consistency in associating each category with its respective/corresponding color. 
 
