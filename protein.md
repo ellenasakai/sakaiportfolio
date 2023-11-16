@@ -23,7 +23,7 @@ Add Link to Critique
 
 ## 4. Test the Solution
 
-> Interview Results
+> Interview Results: Interviewee #1
 
 | Questions | Student, early 20's |
 |-----------|---------------------|
@@ -32,6 +32,8 @@ Add Link to Critique
 | Is there anything you find surprising or confusing? | Just from looking at the graph, I find it difficult to understand whether the calorie counts are for each specific type of protein. I’m not too sure whether these counts are for a 30g serving or for 1 serving size as is generally recommended for a 2000 calorie diet. I find it surprising that tofu has more calories per serving than chicken, but the lack of inclusion of the actual calorie count makes it difficult to compare with yogurt. I understand that you probably just forgot to include it, but it should be there. |
 | Who do you think is the intended audience for this? |	I feel like the intended audience is people who are interested in saving money, but healthily maximizing their protein intake. Also people who have different dietary restrictions would appreciate the separation of the highest-level categories of proteins. |
 | Is there anything you would change or do differently? | If there was anything I’d change about the graph it would be to include a caption briefly explaining the calorie counts or to include it in the title/subtitle of the graph. Also, maybe providing the calories as different data points and having a third axis on the right-hand side might help compare the calories better. |
+
+> Interview Results: Interviewee #2
 
 | Questions | Student, Mid 20's |
 |-----------|---------------------|
