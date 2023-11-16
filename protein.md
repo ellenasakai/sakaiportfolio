@@ -24,8 +24,13 @@ Add Link to Critique
 ## 4. Test the Solution
 
 Interview Results
-  * Student, early 20's
-  * Student, mid 20's
+
+| Questions               | Student, early 20's            | Student, mid 20's |
+|-------------------------|--------------------------------|-------------------|
+| Can you tell me what you think this is? | Insightful feedback            |                   |
+|                         |                                |                   |
+|                         |                                |                   |
+
 
 
 
