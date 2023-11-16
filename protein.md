@@ -10,7 +10,7 @@
 
 ## 1. Select a Visualization to redesign from MakeoverMonday
 
-<img src="ogviz.jpeg" width="1000"/>
+<img src="ogviz.jpeg" width="800"/>
 
 ## 2. Critique the Visualization
 Add Link to Critique
