@@ -11,7 +11,9 @@
 ## 1. Select a Visualization to redesign from MakeoverMonday
 > Original Visualization: [The Cheapest Ways to Get Your Protein Summary](https://www.thebodybuildingdietitians.com/blog/how-cost-effective-is-your-high-protein-diet)
 
-<img src="ogviz.jpeg" width="500"/> 
+transform: rotate(90deg); <img src="ogviz.jpeg" width="500"/> 
+
+
 
 ## 2. Critique the Visualization
 > Using Stephen Few's [Data Visualization Effectiveness Profile Criteria](http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf), the above visualization got the following scores...
