@@ -25,6 +25,17 @@
   * <font color="#964B00">Aesthetics<font>:<font color="#FF0000"> 6</font>
   * <font color="#964B00">Engagement<font>:<font color="#FF0000"> 9</font>
 
+**Q**: Describe your overall observations about the data visualization here.  What stood out to you?  What did you find worked really well?  What didn't?  What, if anything, would you do differently?   
+**A**: Overall, I believe the data visualization does a successful job of getting the story across. It was clear from the start that our story focuses on the cost of various protein products. While critiquing the visualization, I noticed I heavily focused on the images and only referred to the X-Axis labels when I was not able to determine the product from the image. The images play a critical role in the success of this visualization; without it, the aesthetics would have received a lower score. The visualization is complete and useful for an audience group that wants to understand or compare price, calorie count, and different protein items. At first glance, I started comparing the calorie values written on the bar charts with the cost per 30g of protein ($) which was very confusing. It was also misleading to see calorie counts increasing/decreasing in value when the bars were visually descending. To combat this confusion, I would suggest creating another section for the calories. In terms of audience, I think the visualization would benefit from having the following categories: Animal-based, Plant-based, and Dairy-based protein. This would enable the audience members to pick their category of choosing depending on their health considerations, views on animal cruelty, religious beliefs, and/or other personal preferences, creating a more inclusive and tailored story for each individual. 
+> *Additional notes:*
+  It might be useful to add to the visualization a simple note that states prices of products are subject to change due to inflation. 
+  It might also be useful to include that 30G is not random-- it is the average amount of protein an average person should consume in a meal.
+
+**Q**: Who is the primary audience for this tool?  Do you think this visualization is effective for reaching that audience?  Why or why not?  
+**A**: The primary audience would be us humans who consume protein. Given that cost is a significant factor for many, this visualization facilitates optimal price and product comparisons. Furthermore, if ordering bulk products such as a restaurant, this visualization opens avenues for decision-making, allowing for the creation of a dish/menu with maximum calorie content while incorporating the most cost-effective alternative for a specific audience category as listed above. 
+
+**Final Thoughts**: I found Stephen Few’s Data Visualization effectiveness profile to be an effective tool for critiquing visualizations. The truthfulness criteria was interesting to parse through as I started forming questions like “Is the price accurate? What about inflation? Are the calorie counts correct?”. I feel as if consistency can also be measured along with perceptibility as we want to be consistent with what our human eye and brain can follow. I am also wondering whether the visualization can tell the audience more of a story. Could there be a beginning, middle or end? Could we add a human figure/image that can help tell the story?
+
 ## 3. Sketch out a Solution
 
 > **Sketch One**
