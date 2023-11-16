@@ -27,7 +27,7 @@
 
 ## 3. Sketch out a Solution
 
-> Sketch One
+> **Sketch One**
 
 <img src="sketch1.jpeg" width="400"/>
 
