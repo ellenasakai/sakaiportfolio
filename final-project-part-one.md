@@ -7,7 +7,7 @@
 > xx
 
 ## Project Outline
-> High Level Summary: *Couple paragraphs that describe what you're interested in showing with your final project* 
+> *High Level Summary: Couple paragraphs that describe what you're interested in showing with your final project* 
 > Project Structure:
     - *outlines major elements of story,
     - read chapter 8 good charts,
