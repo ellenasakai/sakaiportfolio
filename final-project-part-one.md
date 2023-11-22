@@ -62,9 +62,19 @@ Sources:
 > Leaders BZ
 https://leaders.com/articles/business/personality-tests/
 > APA
-https://www.apa.org/ed/graduate/specialize/personality
+[https://www.apa.org/ed/graduate/specialize/personality
+](https://www.apa.org. “Personality Assessment.” Accessed November 22, 2023. https://www.apa.org/ed/graduate/specialize/personality.)
 > Psychometric success
-https://psychometric-success.com/aptitude-tests/test-types/personality-tests#:~:text=Personality%20testing%20is%20a%20huge,companies%20appear%20with%20new%20products.
+“Personality Tests: Guide of Personality Tests for Jobs in 2023 – Psychometric Success,” November 16, 2023. https://psychometric-success.com/aptitude-tests/test-types/personality-tests.
+
+I have been using the above citations for my main findings and research on personality tests. 
+
+Datasets:
 > https://www.kaggle.com/datasets/datasnaek/mbti-type
 > https://www.kaggle.com/datasets/tunguz/big-five-personality-test/data
+
+I will combine 2-3 datasets to create my own.
+
+Leikvoll, Vanessa. “80% of Fortune 500 Companies Use Personality Tests, But Are They Ethical?” Leaders.com, September 14, 2022. https://leaders.com/articles/business/personality-tests/.
+“Personality Tests: Guide of Personality Tests for Jobs in 2023 – Psychometric Success,” November 16, 2023. https://psychometric-success.com/aptitude-tests/test-types/personality-tests.
 
