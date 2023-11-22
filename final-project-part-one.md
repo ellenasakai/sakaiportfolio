@@ -42,15 +42,15 @@ https://psychometric-success.com/aptitude-tests/test-types/personality-tests#:~:
 
 
 ## The data
-> *identify primary sources, note: for final project you'll need to get a copy of the data or recreate it based on various sources, make sure to record all sources and cite sources appropriately*
-    - A couple paragraphs that document data source(s) and an explanation of how you plan on using your data
-    - A link to the publically-accessible datasets you plan on using, note: **using a datasource that is already publicly accessible is highly              encouraged**
+> *identify primary sources, note: for the final project you'll need to get a copy of the data or recreate it based on various sources, make sure to record all sources and cite sources appropriately*
+    - A couple of paragraphs that document data source(s) and an explanation of how you plan on using your data
+    - A link to the publically accessible datasets you plan on using, note: **using a datasource that is already publicly accessible is highly              encouraged**
 
 Currently digging through several links but am running into finding proper csv files. I have found a very useful source below. 
 1. https://www.kaggle.com/datasets/datasnaek/mbti-type
 2. https://www.kaggle.com/datasets/tunguz/big-five-personality-test/data
 3. ---
-
+I will need to parse through these csv files and determine groups and categories of personalities for both the MBTI  and Big Five personality types. It would be interesting to see similarities or differences when analyzing the two different test results. 
 
 ## Method and Medium
 > *In a few sentences, document how you plan on completing your final project. Using Shorthand?*
