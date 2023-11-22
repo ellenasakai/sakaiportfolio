@@ -23,7 +23,7 @@ Personality tests or assessments, according to the American Psychological Associ
 
 By 2027, the personality testing industry is expected to be a $6.5 billion industry (leaders) with there already being well over 2,500 personality assessments (Psychometric success). Further, it was interesting to read about how 80% of Fortune 500 Companies use personality tests (https://leaders.com/articles/business/personality-tests/) to determine the hiring of their employees. 
 
-For this final project, I hope to achieve a data visualization that shows the positive and negative effects of mandating a personality assessment in choosing 
+For this final project, I hope to achieve a data visualization that shows the positive and negative effects of mandating a personality assessment within a working environment.
 
 Set-Up: Personality tests are a factor in determining both hiring opportunities and psychological personality traits. There are over 2,500 personality tests.
 Conflict: As the tool remains a very powerful form of assessment, one might combat this by pointing out the ethical concerns and validity of measuring innumerable amounts of human personalities.
