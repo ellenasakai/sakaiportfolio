@@ -4,18 +4,38 @@
 ## Final Project Part I
 
 ## Project Concept
-> xx
+> Is it ethical to use personality type as a hiring criteria or social criteria?
 
 ## Project Outline
-> *High Level Summary: Couple paragraphs that describe what you're interested in showing with your final project* 
+> *High-Level Summary: Couple of paragraphs that describe what you're interested in showing with your final project* 
 > Project Structure:
     - *outlines major elements of story,
-    - read chapter 8 good charts,
-    - Describe what you hope to achieve
+    - Read Chapter 8 good charts,
+    - describe what you hope to achieve,
     - how will the story unfold,
-    - incorporate story arcs from in-class exercise along with your user stories and
+    - incorporate story arcs from in-class exercises along with your user stories and
     - one sentence summary to make the topic even more clear.*
 
+I am personally very curious as to how one can determine and categorize themselves or others through a personality test. It is interesting to see that more recently, conversations and social status are categorized through these different personality traits and tests and are very publically vocalized.
+
+Personality tests or assessments, according to the American Psychological Association (APA)...
+> "is a proficiency in professional psychology that involves the administration, scoring, and interpretation of empirically supported measures of personality traits and styles in order to: Refine clinical diagnoses, structure and inform psychological interventions, and increase the accuracy of behavioral prediction in a variety of contexts and settings"
+
+By 2027, the personality testing industry is expected to be a $6.5 billion industry (leaders) with there already being well over 2,500 personality assessments (Psychometric success). Further, it was interesting to read about how 80% of Fortune 500 Companies use personality tests (https://leaders.com/articles/business/personality-tests/) to determine the hiring of their employees. 
+
+For this final project, I hope to achieve a data visualization that shows the positive and negative effects of mandating a personality assessment in choosing 
+
+Set-Up: Personality tests are a factor in determining both hiring opportunities and psychological personality traits. There are over 2,500 personality tests.
+Conflict: As the tool remains a very powerful form of assessment, one might combat this by pointing out the ethical concerns and validity of measuring innumerable amounts of human personalities.
+Resolution: It is important to redetermine whether personality tests have an accurate say on one's hiring determination.
+
+Sources: 
+> Leaders BZ
+https://leaders.com/articles/business/personality-tests/
+> APA
+https://www.apa.org/ed/graduate/specialize/personality
+> Psychometric success
+https://psychometric-success.com/aptitude-tests/test-types/personality-tests#:~:text=Personality%20testing%20is%20a%20huge,companies%20appear%20with%20new%20products.
 
 ## Initial Sketches
 > *should mimic and follow aspects of your outline, and build on the resounding message you want to make clear through your project, build in elements of your anticipated story structure for your project*
@@ -26,8 +46,25 @@
     - A couple paragraphs that document data source(s) and an explanation of how you plan on using your data
     - A link to the publically-accessible datasets you plan on using, note: **using a datasource that is already publicly accessible is highly              encouraged**
 
+Currently digging through several links but am running into finding proper csv files. I have found a very useful source below. 
+1. https://www.kaggle.com/datasets/datasnaek/mbti-type
+2. https://www.kaggle.com/datasets/tunguz/big-five-personality-test/data
+3. ---
+
+
 ## Method and Medium
 > *In a few sentences, document how you plan on completing your final project. Using Shorthand?*
+I would like to challenge myself with Shorthand and incorporate interactive aspects from Shorthand itself and also from Canva. I envision that my final presentation format will have a simple theme with descriptive personable visualizations to describe the use and clear conflict of personality assessments.
 
 
-submit link when finished
+## Bibliography: Sources
+Sources: 
+> Leaders BZ
+https://leaders.com/articles/business/personality-tests/
+> APA
+https://www.apa.org/ed/graduate/specialize/personality
+> Psychometric success
+https://psychometric-success.com/aptitude-tests/test-types/personality-tests#:~:text=Personality%20testing%20is%20a%20huge,companies%20appear%20with%20new%20products.
+> https://www.kaggle.com/datasets/datasnaek/mbti-type
+> https://www.kaggle.com/datasets/tunguz/big-five-personality-test/data
+
