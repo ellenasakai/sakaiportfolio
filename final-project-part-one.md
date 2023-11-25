@@ -16,7 +16,7 @@
     - incorporate story arcs from in-class exercises along with your user stories and
     - one sentence summary to make the topic even more clear.*
 
-I am personally very curious as to how one can determine and categorize themselves or others through a personality test. It is interesting to see that more recently, conversations and social status are categorized through these different personality traits and tests and are very publically vocalized.
+I am personally very curious as to how one can determine and categorize themselves or others through a personality test. It is interesting to see that more recently, conversations and social status are categorized through these different personality traits and tests and are very publically vocalized. I would like to find as many pertinent datasets, but am currently looking at the most used tests today.
 
 Personality tests or assessments, according to the American Psychological Association (APA)...
 > "is a proficiency in professional psychology that involves the administration, scoring, and interpretation of empirically supported measures of personality traits and styles in order to: Refine clinical diagnoses, structure and inform psychological interventions, and increase the accuracy of behavioral prediction in a variety of contexts and settings"
@@ -28,6 +28,8 @@ For this final project, I hope to achieve a data visualization that shows the po
 Set-Up: Personality tests are a factor in determining both hiring opportunities and psychological personality traits. There are over 2,500 personality tests.
 Conflict: As the tool remains a very powerful form of assessment, one might combat this by pointing out the ethical concerns and validity of measuring innumerable amounts of human personalities.
 Resolution: It is important to redetermine whether personality tests have an accurate say on one's hiring determination.
+
+Side Note: I am attempting to search for data relating to cultural and diverse perceptions on personality types and traits-- This would be a separate column in my combined final dataset.
 
 Sources: 
 > Leaders BZ
