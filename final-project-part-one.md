@@ -6,7 +6,7 @@
 > Is it ethical to use personality type as a hiring criteria or social criteria?
 
 ## <font color="#FF0000"> Updated Project Concept: </font>
- Narrowing down the concept of my project, I will be looking specifically at the Myers-Briggs Type Indicator test (MBTI), employees who are artists or have some degree of art background within their profession, and issues that arise within mandating a personality test as a hiring criterion. 
+Narrowing down the concept of my project, I will be looking specifically at the Myers-Briggs Type Indicator test (MBTI), employees who are artists or have some degree of art background within their profession, and issues that arise within mandating a personality test as a hiring criterion. 
 
 ### Project Outline V1
 > *High-Level Summary: Couple of paragraphs that describe what you're interested in showing with your final project* 
