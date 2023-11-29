@@ -7,7 +7,7 @@
 >
 > <font color="#FF0000"> Narrowing down the concept of my project, I will be looking specifically at the Myers-Briggs Type Indicator test (MBTI), employees who are artists or have some degree of art background within their profession, and issues that arise within mandating a personality test as a hiring criterion. </font>
 
-## Project Outline V1
+### Project Outline V1
 > *High-Level Summary: Couple of paragraphs that describe what you're interested in showing with your final project* 
 > Project Structure:
     - *outlines major elements of story,
@@ -52,7 +52,9 @@ https://psychometric-success.com/aptitude-tests/test-types/personality-tests#:~:
     * sharing this information with others who might not be aware of how broadly used these tests are.
 </font>
 
-
+Set-Up: Personality tests are a factor in determining both hiring opportunities and psychological personality traits. There are over 2,500 personality tests.
+Conflict: As the tool remains a very powerful form of assessment, one might combat this by pointing out the ethical concerns and validity of measuring innumerable amounts of human personalities.
+Resolution: It is important to redetermine whether personality tests have an accurate say on one's hiring determination.
 
 
 ## Initial Sketches
