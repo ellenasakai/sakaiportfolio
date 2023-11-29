@@ -42,15 +42,13 @@ https://psychometric-success.com/aptitude-tests/test-types/personality-tests#:~:
 
 
 ### Project Outline V2
-> <font color="#FF0000"> 
-*One sentence summary for your project*: Personality tests are being used as a criterion in hiring processes. The most common test used is the Myers-Briggs Type Indicator test and over 80% of Fortune 500 companies use this to determine and summarize what types of personality traits employees carry. 
+<font color="#FF0000"> *One sentence summary for your project*: Personality tests are being used as a criterion in hiring processes. The most common test used is the Myers-Briggs Type Indicator test and over 80% of Fortune 500 companies use this to determine and summarize what types of personality traits employees carry. 
 
-> As a reader, I want to **understand the benefits and detriments of personality tests** so that I can **share with those entering the workforce that personality tests are being utilized as part of the hiring criteria for certain companies and organizations**.
+As a reader, I want to **understand the benefits and detriments of personality tests** so that I can **share with those entering the workforce that personality tests are being utilized as part of the hiring criteria for certain companies and organizations**.
 
-> I can do this by...
+I can do this by...
     * suggesting that employers should implement in-person team activities (such as during interview processes) rather than taking a personality test.
-    * sharing this information with others who might not be aware of how broadly used these tests are.
-</font>
+    * sharing this information with others who might not be aware of how broadly used these tests are. </font>
 
 Set-Up: Personality tests are a factor in determining both hiring opportunities and psychological personality traits. There are over 2,500 personality tests.
 Conflict: As the tool remains a very powerful form of assessment, one might combat this by pointing out the ethical concerns and validity of measuring innumerable amounts of human personalities.
