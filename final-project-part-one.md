@@ -5,6 +5,12 @@
 
 ## Project Concept
 > Is it ethical to use personality type as a hiring criteria or social criteria?
+>
+> <font color="#FF0000">
+Narrowing down the concept of my project, I will be looking specifically at the Myers-Briggs Type Indicator test (MBTI), employees who are artists or have some degree of art background within their profession, and issues that arise within mandating a personality test as a hiring criterion. 
+
+
+</font>
 
 ## Project Outline
 > *High-Level Summary: Couple of paragraphs that describe what you're interested in showing with your final project* 
@@ -15,6 +21,15 @@
     - how will the story unfold,
     - incorporate story arcs from in-class exercises along with your user stories and
     - one sentence summary to make the topic even more clear.*
+>
+> One sentence summary for your project: Personality tests are being used as a criterion in hiring processes. The most common test used is the Myers-Briggs Type Indicator test and over 80% of Fortune 500 companies use this to determine and summarize what types of personality traits employees carry. 
+
+> As a reader, I want to **understand the benefits and detriments of personality tests** so that I can **share with those entering the workforce that personality tests are being utilized as part of the hiring criteria for certain companies and organizations**.
+
+> I can do this by...
+    * suggesting that employers should implement in-person team activities (such as during interview processes) rather than taking a personality test.
+    * 
+> 
 
 I am personally very curious as to how one can determine and categorize themselves or others through a personality test. It is interesting to see that more recently, conversations and social status are categorized through these different personality traits and tests and are very publically vocalized. I would like to find as many pertinent datasets, but am currently looking at the most used tests today.
 
