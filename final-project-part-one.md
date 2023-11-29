@@ -30,12 +30,12 @@ For this final project, I hope to achieve a data visualization that shows the po
 Side Note: I am attempting to search for data relating to cultural and diverse perceptions on personality types and traits-- This would be a separate column in my combined final dataset.
 
 Sources: 
-> Leaders BZ
-https://leaders.com/articles/business/personality-tests/
-> APA
-https://www.apa.org/ed/graduate/specialize/personality
-> Psychometric success
-https://psychometric-success.com/aptitude-tests/test-types/personality-tests#:~:text=Personality%20testing%20is%20a%20huge,companies%20appear%20with%20new%20products.
+    - Leaders BZ
+    https://leaders.com/articles/business/personality-tests/
+    - APA
+    https://www.apa.org/ed/graduate/specialize/personality
+    - Psychometric success
+    https://psychometric-success.com/aptitude-tests/test-types/personality-tests#:~:text=Personality%20testing%20is%20a%20huge,companies%20appear%20with%20new%20products.
 
 
 ### <font color="#FF0000"> Project Outline V2 </font>
@@ -44,8 +44,8 @@ https://psychometric-success.com/aptitude-tests/test-types/personality-tests#:~:
 As a reader, I want to **understand the benefits and detriments of personality tests** so that I can **share with those entering the workforce that personality tests are being utilized as part of the hiring criteria for certain companies and organizations**.
 
 I can do this by...
-    - suggesting that employers should implement in-person team activities (such as during interview processes) rather than taking a personality test.
-    - sharing this information with others who might not be aware of how broadly used these tests are. 
+- suggesting that employers should implement in-person team activities (such as during interview processes) rather than taking a personality test.
+- sharing this information with others who might not be aware of how broadly used these tests are. 
 
 | Outline | set-up, conflict, resolution |
 |--|-----|
