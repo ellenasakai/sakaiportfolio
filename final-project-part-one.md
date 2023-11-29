@@ -56,6 +56,8 @@ I can do this by...
 "Instead, they lean toward type-based measures such as the Myers-Briggs (rather trait-based measures like the Big 5). Type-based measures don't give people scores on continuous scales but instead categorize them into distinct 'types'" (https://daily.jstor.org/why-companies-are-so-interested-in-your-myers-briggs-type/)
 
 
+
+
 ## <font color="#FF0000"> Initial Sketches </font>
 > *should mimic and follow aspects of your outline, and build on the resounding message you want to make clear through your project, build in elements of your anticipated story structure for your project*
 
