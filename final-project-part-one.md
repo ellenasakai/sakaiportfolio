@@ -52,9 +52,12 @@ I can do this by...
     * suggesting that employers should implement in-person team activities (such as during interview processes) rather than taking a personality test.
     * sharing this information with others who might not be aware of how broadly used these tests are. </font>
 
-Set-Up: Personality tests are a factor in determining both hiring opportunities and psychological personality traits. There are over 2,500 personality tests.
-Conflict: As the tool remains a very powerful form of assessment, one might combat this by pointing out the ethical concerns and validity of measuring innumerable amounts of human personalities.
-Resolution: It is important to redetermine whether personality tests have an accurate say on one's hiring determination.
+**Set-Up**: Personality tests are a factor in determining both hiring opportunities and psychological personality traits. There are over 2,500 personality tests.
+**Conflict**: As the tool remains a very powerful form of assessment, one might combat this by pointing out the ethical concerns and validity of measuring innumerable amounts of human personalities. For instance, within the 14.6 million employees in Fortune 500 companies, relying on just 16 personalities from the MBTI test feels too broad and oversimplified to truly understand everyone's traits and personalities. Further, getting to know employees and
+**Resolution**: It is important to redetermine whether personality tests have an accurate say on one's hiring determination without discriminating or leaving out candidates with significant potential.
+
+"Instead, they lean toward type-based measures such as the Myers-Briggs (rather trait-based measures like the Big 5). Type-based measures don't give people scores on continuous scales but instead categorize them indo distinct 'types'" (https://daily.jstor.org/why-companies-are-so-interested-in-your-myers-briggs-type/)
+
 
 
 ## Initial Sketches
