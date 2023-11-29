@@ -4,8 +4,8 @@
 
 ## Project Concept
 > Is it ethical to use personality type as a hiring criteria or social criteria?
->
-### <font color="#FF0000"> Updated Project Concept: </font>
+
+## <font color="#FF0000"> Updated Project Concept: </font>
  Narrowing down the concept of my project, I will be looking specifically at the Myers-Briggs Type Indicator test (MBTI), employees who are artists or have some degree of art background within their profession, and issues that arise within mandating a personality test as a hiring criterion. 
 
 ### Project Outline V1
@@ -56,14 +56,14 @@ I can do this by...
 "Instead, they lean toward type-based measures such as the Myers-Briggs (rather trait-based measures like the Big 5). Type-based measures don't give people scores on continuous scales but instead categorize them indo distinct 'types'" (https://daily.jstor.org/why-companies-are-so-interested-in-your-myers-briggs-type/)
 
 
-## Initial Sketches
+## <font color="#FF0000"> Initial Sketches </font>
 > *should mimic and follow aspects of your outline, and build on the resounding message you want to make clear through your project, build in elements of your anticipated story structure for your project*
 
 
 
 
 
-## The data
+## <font color="#FF0000"> The Data </font>
 > *identify primary sources, note: for the final project you'll need to get a copy of the data or recreate it based on various sources, make sure to record all sources and cite sources appropriately*
     - A couple of paragraphs that document data source(s) and an explanation of how you plan on using your data
     - A link to the publically accessible datasets you plan on using, note: **using a datasource that is already publicly accessible is highly encouraged**
