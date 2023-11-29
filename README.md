@@ -1,4 +1,4 @@
-| [Home Page](https://ellenasakai.github.io/sakaiportfolio/) | [Visualizing Government Debt](governmentdebt) | [Visualizing Protein Costs and Categories](protein) | [Final Project I](final-project-part-one) |
+| [Home Page](https://ellenasakai.github.io/sakaiportfolio/) | [Visualizing Government Debt](governmentdebt) | [Visualizing Protein Costs and Categories](protein) | [Final Project I](final-project-part-one) |[Final Project II](final-project-part-2) 
 
 # sakaiportfolio
 Public Portfolio for Telling Stories with Data 2023
