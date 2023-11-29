@@ -1,4 +1,4 @@
-| [Home Page](https://ellenasakai.github.io/sakaiportfolio/) | [Visualizing Government Debt](governmentdebt) | [Visualizing Protein Costs and Categories](protein) | [Final Project I](final-project-part-one) |
+| [Home Page](https://ellenasakai.github.io/sakaiportfolio/) |
 
 # Assignment: Critique by Design with Tableau (MakeoverMonday)
   1. Select a Visualization to redesign from MakeoverMonday
