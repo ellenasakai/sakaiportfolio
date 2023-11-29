@@ -44,16 +44,16 @@ https://psychometric-success.com/aptitude-tests/test-types/personality-tests#:~:
 As a reader, I want to **understand the benefits and detriments of personality tests** so that I can **share with those entering the workforce that personality tests are being utilized as part of the hiring criteria for certain companies and organizations**.
 
 I can do this by...
-    * suggesting that employers should implement in-person team activities (such as during interview processes) rather than taking a personality test.
-    * sharing this information with others who might not be aware of how broadly used these tests are. 
+    - suggesting that employers should implement in-person team activities (such as during interview processes) rather than taking a personality test.
+    - sharing this information with others who might not be aware of how broadly used these tests are. 
 
-| Outline | setup, conflict, resolution |
+| Outline | set-up, conflict, resolution |
 |--|-----|
 | Set-Up | Personality tests are a factor in determining both hiring opportunities and psychological personality traits. There are over 2,500 personality tests. |
 | Conflict | As the tool remains a very powerful form of assessment, one might combat this by pointing out the ethical concerns and validity of measuring innumerable amounts of human personalities. |
 | Resolution | It is important to redetermine whether personality tests have an accurate say on one's hiring determination. |
 
-"Instead, they lean toward type-based measures such as the Myers-Briggs (rather trait-based measures like the Big 5). Type-based measures don't give people scores on continuous scales but instead categorize them indo distinct 'types'" (https://daily.jstor.org/why-companies-are-so-interested-in-your-myers-briggs-type/)
+"Instead, they lean toward type-based measures such as the Myers-Briggs (rather trait-based measures like the Big 5). Type-based measures don't give people scores on continuous scales but instead categorize them into distinct 'types'" (https://daily.jstor.org/why-companies-are-so-interested-in-your-myers-briggs-type/)
 
 
 ## <font color="#FF0000"> Initial Sketches </font>
@@ -73,6 +73,12 @@ Currently digging through several links but am running into finding proper csv f
 2. https://www.kaggle.com/datasets/tunguz/big-five-personality-test/data
 3. ---
 I will need to parse through these csv files and determine groups and categories of personalities for both the MBTI  and Big Five personality types. It would be interesting to see similarities or differences when analyzing the two different test results. 
+
+### Continuing Data Search
+> Data for Overview of personality tests
+> Data for Fortune 500 companies
+> Data for Artist Personality Tests
+> Data for MBTI tests
 
 ## Method and Medium
 > *In a few sentences, document how you plan on completing your final project. Using Shorthand?*
