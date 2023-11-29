@@ -7,7 +7,7 @@
 >
 > <font color="#FF0000"> Narrowing down the concept of my project, I will be looking specifically at the Myers-Briggs Type Indicator test (MBTI), employees who are artists or have some degree of art background within their profession, and issues that arise within mandating a personality test as a hiring criterion. </font>
 
-## Project Outline
+## Project Outline V1
 > *High-Level Summary: Couple of paragraphs that describe what you're interested in showing with your final project* 
 > Project Structure:
     - *outlines major elements of story,
@@ -40,8 +40,10 @@ https://www.apa.org/ed/graduate/specialize/personality
 > Psychometric success
 https://psychometric-success.com/aptitude-tests/test-types/personality-tests#:~:text=Personality%20testing%20is%20a%20huge,companies%20appear%20with%20new%20products.
 
+
+### Project Outline V2
 > <font color="#FF0000"> 
-One sentence summary for your project: Personality tests are being used as a criterion in hiring processes. The most common test used is the Myers-Briggs Type Indicator test and over 80% of Fortune 500 companies use this to determine and summarize what types of personality traits employees carry. 
+*One sentence summary for your project*: Personality tests are being used as a criterion in hiring processes. The most common test used is the Myers-Briggs Type Indicator test and over 80% of Fortune 500 companies use this to determine and summarize what types of personality traits employees carry. 
 
 > As a reader, I want to **understand the benefits and detriments of personality tests** so that I can **share with those entering the workforce that personality tests are being utilized as part of the hiring criteria for certain companies and organizations**.
 
@@ -49,6 +51,8 @@ One sentence summary for your project: Personality tests are being used as a cri
     * suggesting that employers should implement in-person team activities (such as during interview processes) rather than taking a personality test.
     * sharing this information with others who might not be aware of how broadly used these tests are.
 </font>
+
+
 
 
 ## Initial Sketches
