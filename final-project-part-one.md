@@ -26,9 +26,11 @@ By 2027, the personality testing industry is expected to be a $6.5 billion indus
 
 For this final project, I hope to achieve a data visualization that shows the positive and negative effects of mandating a personality assessment within a working environment.
 
-Set-Up: Personality tests are a factor in determining both hiring opportunities and psychological personality traits. There are over 2,500 personality tests.
-Conflict: As the tool remains a very powerful form of assessment, one might combat this by pointing out the ethical concerns and validity of measuring innumerable amounts of human personalities.
-Resolution: It is important to redetermine whether personality tests have an accurate say on one's hiring determination.
+add chart here
+
+> Set-Up: Personality tests are a factor in determining both hiring opportunities and psychological personality traits. There are over 2,500 personality tests.
+> Conflict: As the tool remains a very powerful form of assessment, one might combat this by pointing out the ethical concerns and validity of measuring innumerable amounts of human personalities.
+> Resolution: It is important to redetermine whether personality tests have an accurate say on one's hiring determination.
 
 Side Note: I am attempting to search for data relating to cultural and diverse perceptions on personality types and traits-- This would be a separate column in my combined final dataset.
 
