@@ -40,7 +40,7 @@ https://www.apa.org/ed/graduate/specialize/personality
 > Psychometric success
 https://psychometric-success.com/aptitude-tests/test-types/personality-tests#:~:text=Personality%20testing%20is%20a%20huge,companies%20appear%20with%20new%20products.
 
-<font color="#FF0000"> 
+> <font color="#FF0000"> 
 One sentence summary for your project: Personality tests are being used as a criterion in hiring processes. The most common test used is the Myers-Briggs Type Indicator test and over 80% of Fortune 500 companies use this to determine and summarize what types of personality traits employees carry. 
 
 > As a reader, I want to **understand the benefits and detriments of personality tests** so that I can **share with those entering the workforce that personality tests are being utilized as part of the hiring criteria for certain companies and organizations**.
