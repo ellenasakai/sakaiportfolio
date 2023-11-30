@@ -39,8 +39,6 @@ I can do this by...
 | Resolution | It is important to redetermine whether personality tests have an accurate say on one's hiring determination. |
 
 
-
-
 ## <font color="#FF0000"> Initial Sketches </font>
 > *should mimic and follow aspects of your outline, and build on the resounding message you want to make clear through your project, build in elements of your anticipated story structure for your project*
 
