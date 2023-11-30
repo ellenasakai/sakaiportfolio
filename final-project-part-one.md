@@ -23,8 +23,9 @@ There are a lot of rising issues regarding companies' use of MBTI tests as a hir
  *One sentence summary for your project*: Personality tests are being used as a criterion in hiring processes. The most common test used is the Myers-Briggs Type Indicator test and over 80% of Fortune 500 companies use this to determine and summarize what types of personality traits employees carry. 
 
 1. To start from the very top, I looked into the different personality types resulting from the MBTI test. The following are the categories...
+     
 | 4 Roles | Personality Aspects/Types |
-|---------|---------------------------|
+|---------|---------------|
 | Analysts| INTJ, INTP, ENTJ, ENTP |
 | Diplomats | INFJ, INFP, ENFJ, ENFP |
 | Sentinals | ISTJ, ESFJ, ESTJ, ESFJ|
