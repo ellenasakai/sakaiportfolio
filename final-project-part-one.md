@@ -31,8 +31,17 @@ There are a lot of rising issues regarding companies' use of MBTI tests as a hir
 | Sentinals | ISTJ, ESFJ, ESTJ, ESFJ|
 | Explorers | ISTP, ISFP, ESTP, ESFP |
 
-2. Next, I created my own dataset by aggragating data from the United States Personality Map provided by 16Personalities. The map included information on what % of the test takers 
+2. Next, I created my own dataset by aggregating data from the United States Personality Map provided by 16Personalities. The test takers results were represented in their respective personality types and the map included the % of different personality types per state.
+- Source: https://www.16personalities.com/country-profiles/global/united-states#global
 
+3. Following that, Using a dataset on _Suggested Careers for Myers-Briggs Type_, I parsed through the given career options and narrowed them down so that they aligned with the Fortune 100 industry sectors(see below).
+- Source: http://www2.iccb.org/iccb/wp-content/pdfs/adulted/tdl_bridge_curriculum/tdl_career_awareness/tdl_career_aware_resource_file/Suggested_Careers_for_MBTI.pdf
+
+4. Using _Fortune's: Mapping the Fortune 100_, I collected further data on where these 100 companies were located AND which industry sectors the companies fell into. (ie. Company: Amazon, State: Washington, Industry sector: Retail.)
+- It is important to note here that I renamed/relabeled some of the industry sectors so that they overlapped with the MBTI & career dataset as seen in step 3.
+- Source: https://fortune.com/franchise-list-page/visualize-the-fortune-500-2022/
+
+5. Now, taking all this data...
 
 As a reader, I want to **understand the benefits and detriments of personality tests** so that I can **share with those entering the workforce that personality tests are being utilized as part of the hiring criteria for certain companies and organizations**.
 
