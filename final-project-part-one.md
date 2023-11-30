@@ -5,11 +5,21 @@
 ## <font color="#FF0000"> Updated Project Concept: </font>
 Narrowing down the concept of my project, I will be looking specifically at the Myers-Briggs Type Indicator test (MBTI), employees who are artists or have some degree of art background within their profession, and issues that arise within mandating a personality test as a hiring criterion. 
 
-
 ### <font color="#FF0000"> Project Outline V2 </font>
  *One sentence summary for your project*: Personality tests are being used as a criterion in hiring processes. The most common test used is the Myers-Briggs Type Indicator test and over 80% of Fortune 500 companies use this to determine and summarize what types of personality traits employees carry. 
 
+To start from the very top, I looked into the different personality types resulting from the MBTI test. The following are the categories
+| 4 Roles | Personality Aspects/Types |
+|--|-----|
+| Analysts| INTJ, INTP, ENTJ, ENTP |
+| Diplomats | INFJ, INFP, ENFJ, ENFP |
+| Sentinals | ISTJ, ESFJ, ESTJ, ESFJ|
+| Explorers | ISTP, ISFP, ESTP, ESFP |
+
+
 As a reader, I want to **understand the benefits and detriments of personality tests** so that I can **share with those entering the workforce that personality tests are being utilized as part of the hiring criteria for certain companies and organizations**.
+
+As a reader, I want to observe and analyze the personality types throughout the U.S., look at where the top 100 Fortune companies are located, and look into data that categorizes different professions into certain MBTI personality types. This will allow me to see trends and tell a story about which personality types are working in these companies.   
 
 I can do this by...
 - suggesting that employers should implement in-person team activities (such as during interview processes) rather than taking a personality test.
@@ -17,12 +27,11 @@ I can do this by...
 
 | Outline | set-up, conflict, resolution |
 |--|-----|
-| Set-Up | Personality tests are a factor in determining both hiring opportunities and psychological personality traits. There are over 2,500 personality tests. |
-| Conflict | As the tool remains a very powerful form of assessment, one might combat this by pointing out the ethical concerns and validity of measuring innumerable amounts of human personalities. |
+| Set-Up | Personality tests are a factor in determining hiring opportunities. Companies use MBTI tests to decipher personality types, such as the top 100 Fortune companies. |
+| Conflict | As the tool remains a very powerful form of assessment, one might combat this by pointing out the ethical concerns and validity of measuring innumerable amounts of human personalities. With there being several million employees combined in the Fortune 100 companies, those employees are categorized into 16 personality types and 4 distinct categories.|
 | Resolution | It is important to redetermine whether personality tests have an accurate say on one's hiring determination. |
 
 "Instead, they lean toward type-based measures such as the Myers-Briggs (rather trait-based measures like the Big 5). Type-based measures don't give people scores on continuous scales but instead categorize them into distinct 'types'" (https://daily.jstor.org/why-companies-are-so-interested-in-your-myers-briggs-type/)
-
 
 
 ## <font color="#FF0000"> Initial Sketches </font>
