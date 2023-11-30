@@ -3,18 +3,34 @@
 ## Final Project Part I (Version 2)
 
 ## <font color="#FF0000"> Updated Project Concept: </font>
-Narrowing down the concept of my project, I will be looking specifically at the Myers-Briggs Type Indicator test (MBTI), employees who are artists or have some degree of art background within their profession, and issues that arise within mandating a personality test as a hiring criterion. 
+Narrowing down the concept of my project, I will be looking specifically at the Myers-Briggs Type Indicator test (MBTI) personality types, the location of Fortune 100 companies, and an overview of MBTI types in the U.S. states. 
+
+There are a lot of rising issues regarding companies' use of MBTI tests as a hiring criterion. I am interested to see the percentage of people living in different states in the US and how the results of the personality test correlate to where the fortune 100 companies are located. 
+
+> Brief history and facts
+- The MBTI test was developed by Katharine Cook Briggs and Isabel Briggs Meyer (daughter), based on Carl Jung's original theory of psychological types. (1919)
+- What is it? A self-report questionnaire designed to assess personality preferences across four personality aspects: Introversion/Extraversion, Sensing/Intuition, Thinking/Feeling, and Judging/Perceiving. The combination of these create 16 personality types.
+- When is it used? Workplaces, education, and psychological assessment, counseling
+- How did it gain popularity?
+- Who takes this test? the test remains the most popular personality test in the world and is taken by more than two million people annually.
+- Where is this market headed? In 2021, the market for the MBTI testing alone generates $20 million in revenue each year. By 2027, the personality testing industry is expected to be a $6.5 billion industry (leaders) with there already being well over 2,500 personality assessments.
+
+> Company Uses
+- "Focusing on 'fit' of employees/hirees" : behaviors, culture fit, team building, communication preferences, leadership coaching, etc.
+
 
 ### <font color="#FF0000"> Project Outline V2 </font>
  *One sentence summary for your project*: Personality tests are being used as a criterion in hiring processes. The most common test used is the Myers-Briggs Type Indicator test and over 80% of Fortune 500 companies use this to determine and summarize what types of personality traits employees carry. 
 
-To start from the very top, I looked into the different personality types resulting from the MBTI test. The following are the categories
+1. To start from the very top, I looked into the different personality types resulting from the MBTI test. The following are the categories...
 | 4 Roles | Personality Aspects/Types |
-|--|-----|
+|---------|---------------------------|
 | Analysts| INTJ, INTP, ENTJ, ENTP |
 | Diplomats | INFJ, INFP, ENFJ, ENFP |
 | Sentinals | ISTJ, ESFJ, ESTJ, ESFJ|
 | Explorers | ISTP, ISFP, ESTP, ESFP |
+
+2. Next, I created my own dataset by aggragating data from the United States Personality Map provided by 16Personalities. The map included information on what % of the test takers 
 
 
 As a reader, I want to **understand the benefits and detriments of personality tests** so that I can **share with those entering the workforce that personality tests are being utilized as part of the hiring criteria for certain companies and organizations**.
@@ -26,7 +42,7 @@ I can do this by...
 - sharing this information with others who might not be aware of how broadly used these tests are. 
 
 | Outline | set-up, conflict, resolution |
-|--|-----|
+|---------|------------------------------|
 | Set-Up | Personality tests are a factor in determining hiring opportunities. Companies use MBTI tests to decipher personality types, such as the top 100 Fortune companies. |
 | Conflict | As the tool remains a very powerful form of assessment, one might combat this by pointing out the ethical concerns and validity of measuring innumerable amounts of human personalities. With there being several million employees combined in the Fortune 100 companies, those employees are categorized into 16 personality types and 4 distinct categories.|
 | Resolution | It is important to redetermine whether personality tests have an accurate say on one's hiring determination. |
@@ -57,7 +73,10 @@ I can do this by...
 I would like to challenge myself with Shorthand and incorporate interactive aspects from Shorthand itself and also from Canva. I envision that my final presentation format will have a simple theme with descriptive personable visualizations to describe the use and clear conflict of personality assessments.
 
 ## Bibliography: Sources
+
+x
 __________________________________________________________________________________________________________________________________________________
+x
 
 ## Final Project Part I (Version 1)
 
