@@ -14,13 +14,44 @@ There are a lot of rising issues regarding companies' use of MBTI tests as a hir
 - How did it gain popularity?
 - Who takes this test? the test remains the most popular personality test in the world and is taken by more than two million people annually.
 - Where is this market headed? In 2021, the market for the MBTI testing alone generates $20 million in revenue each year. By 2027, the personality testing industry is expected to be a $6.5 billion industry (leaders) with there already being well over 2,500 personality assessments.
+- "Instead, they lean toward type-based measures such as the Myers-Briggs (rather trait-based measures like the Big 5). Type-based measures don't give people scores on continuous scales but instead categorize them into distinct 'types'" (https://daily.jstor.org/why-companies-are-so-interested-in-your-myers-briggs-type/)
 
 > Company Uses
-- "Focusing on 'fit' of employees/hirees" : behaviors, culture fit, team building, communication preferences, leadership coaching, etc.
+- Benefits: "Focusing on 'fit' of employees/hirees" : behaviors, culture fit, team building, communication preferences, leadership coaching, etc.
+- Overshadowed factors: limited scope, accessibility for all, ...
 
 
 ### <font color="#FF0000"> Project Outline V2 </font>
  *One sentence summary for your project*: Personality tests are being used as a criterion in hiring processes. The most common test used is the Myers-Briggs Type Indicator test and over 80% of Fortune 500 companies use this to determine and summarize what types of personality traits employees carry. 
+
+As a reader, I want to **understand the benefits and detriments of personality tests** so that I can **share with those entering the workforce that personality tests are being utilized as part of the hiring criteria for certain companies and organizations**.
+
+As a reader, I want to **observe and analyze the personality types throughout the U.S., look at where the top 100 Fortune companies are located, and look into data that categorizes different professions into certain MBTI personality types.** This will allow me to **see trends and tell a story about which personality types are working in these companies.**   
+
+I can do this by...
+- suggesting that employers should implement in-person team activities (such as during interview processes) rather than taking a personality test.
+- sharing this information with others who might not be aware of how broadly used these tests are. 
+
+| Outline | set-up, conflict, resolution |
+|---------|------------------------------|
+| Set-Up | Personality tests are a factor in determining hiring opportunities. Companies use MBTI tests to decipher personality types, such as the top 100 Fortune companies. |
+| Conflict | As the tool remains a very powerful form of assessment, one might combat this by pointing out the ethical concerns and validity of measuring innumerable amounts of human personalities. With there being several million employees combined in the Fortune 100 companies, those employees are categorized into 16 personality types and 4 distinct categories.|
+| Resolution | It is important to redetermine whether personality tests have an accurate say on one's hiring determination. |
+
+
+
+
+## <font color="#FF0000"> Initial Sketches </font>
+> *should mimic and follow aspects of your outline, and build on the resounding message you want to make clear through your project, build in elements of your anticipated story structure for your project*
+
+
+
+## <font color="#FF0000"> The Data </font>
+> *identify primary sources, note: for the final project you'll need to get a copy of the data or recreate it based on various sources, make sure to record all sources and cite sources appropriately*
+    - A couple of paragraphs that document data source(s) and an explanation of how you plan on using your data
+    - A link to the publically accessible datasets you plan on using, note: **using a datasource that is already publicly accessible is highly encouraged**
+
+### Steps to Collect Data:
 
 1. To start from the very top, I looked into the different personality types resulting from the MBTI test. The following are the categories...
      
@@ -43,39 +74,6 @@ There are a lot of rising issues regarding companies' use of MBTI tests as a hir
 
 5. Now, taking all this data...
 
-As a reader, I want to **understand the benefits and detriments of personality tests** so that I can **share with those entering the workforce that personality tests are being utilized as part of the hiring criteria for certain companies and organizations**.
-
-As a reader, I want to observe and analyze the personality types throughout the U.S., look at where the top 100 Fortune companies are located, and look into data that categorizes different professions into certain MBTI personality types. This will allow me to see trends and tell a story about which personality types are working in these companies.   
-
-I can do this by...
-- suggesting that employers should implement in-person team activities (such as during interview processes) rather than taking a personality test.
-- sharing this information with others who might not be aware of how broadly used these tests are. 
-
-| Outline | set-up, conflict, resolution |
-|---------|------------------------------|
-| Set-Up | Personality tests are a factor in determining hiring opportunities. Companies use MBTI tests to decipher personality types, such as the top 100 Fortune companies. |
-| Conflict | As the tool remains a very powerful form of assessment, one might combat this by pointing out the ethical concerns and validity of measuring innumerable amounts of human personalities. With there being several million employees combined in the Fortune 100 companies, those employees are categorized into 16 personality types and 4 distinct categories.|
-| Resolution | It is important to redetermine whether personality tests have an accurate say on one's hiring determination. |
-
-"Instead, they lean toward type-based measures such as the Myers-Briggs (rather trait-based measures like the Big 5). Type-based measures don't give people scores on continuous scales but instead categorize them into distinct 'types'" (https://daily.jstor.org/why-companies-are-so-interested-in-your-myers-briggs-type/)
-
-
-## <font color="#FF0000"> Initial Sketches </font>
-> *should mimic and follow aspects of your outline, and build on the resounding message you want to make clear through your project, build in elements of your anticipated story structure for your project*
-
-
-
-## <font color="#FF0000"> The Data </font>
-> *identify primary sources, note: for the final project you'll need to get a copy of the data or recreate it based on various sources, make sure to record all sources and cite sources appropriately*
-    - A couple of paragraphs that document data source(s) and an explanation of how you plan on using your data
-    - A link to the publically accessible datasets you plan on using, note: **using a datasource that is already publicly accessible is highly encouraged**
-
-
-### Continuing Data Search
-> Data for Overview of personality tests
-> Data for Fortune 500 companies
-> Data for Artist Personality Tests
-> Data for MBTI tests
 
 ## Method and Medium
 > *In a few sentences, document how you plan on completing your final project. Using Shorthand?*
@@ -84,8 +82,7 @@ I would like to challenge myself with Shorthand and incorporate interactive aspe
 
 ## Bibliography: Sources
 
-x
-__________________________________________________________________________________________________________________________________________________
+<div style="page-break-after: always;"></div>
 x
 
 ## Final Project Part I (Version 1)
