@@ -5,7 +5,7 @@
 
 Failing my original idea to find trends between **top 100 revenue-generating companies in the US** and **career options for the 16 personality types**, I decided to take a more personal approach and dive deeper into my personality type. After taking the Myers-Briggs Type Indicator test, also known as the 16 Personality test, my results reflected the Introverted Intuitive Feeling Judging (INFJ) personality type. 
 
-It is very interesting and left me wondering how 130 questions categorized me into one of 16 personalities. Let alone, another interesting aspect is how Fortune 500 companies mandate an MBTI test to determine hiring. This means most employees at Walmart, Amazon, Apple, Exxon, Berkshire Hathaway, and more have taken this test and have gotten hired depending on their results. 
+It is very interesting and left me wondering how 130 questions categorized me into one of 16 personalities. Let alone, another interesting aspect is how Fortune 500 companies mandate an MBTI testing as a hiring criteria. This means most employees at Walmart, Amazon, Apple, Exxon, Berkshire Hathaway, and more have taken this test and have gotten hired depending on their results. 
 
 Using the data that I had already aggregated from my failed attempt, I used the information existing to back up the "ideal" career options for the personality of an INFJ.
 
