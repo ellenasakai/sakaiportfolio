@@ -14,6 +14,13 @@ To further preface this, there are xx% of INFJ's from the 22 million test respon
 Visualization 1: % of each 16 personality types
 Visualization 2: xx
 
+
+| Outline | set-up, conflict, resolution |
+|---------|------------------------------|
+| Set-Up | Personality tests are a factor in determining hiring opportunities. Companies use MBTI tests to decipher personality types, such as the top 100 Fortune companies. |
+| Conflict | As the tool remains a very powerful form of assessment, one might combat this by pointing out the ethical concerns and validity of measuring innumerable amounts of human personalities. Personally, as an INFJ, using the existing data I found, it is said that this personality type tends to go for careers within the xxx field.|
+| Resolution | It is important to redetermine whether personality tests have an accurate say on one's hiring determination. Practicing other forms and creating more personable ways of determining personality types is necessary. |
+
 New CALL TO ACTION:
 
 
