@@ -74,18 +74,6 @@ I can do this by...
 5. Now, taking all this data...
 - step 1:
 
-After taking the Myers-Briggs Type Indicator test, also known as the 16 Personality test, my results reflected the INFJ personality type. It is very interesting and left me wondering how 130 questions categorized me into one of 16 personalities. Let alone, another interesting aspect is how Fortune 500 companies mandate an MBTI test to determine hiring. This means most employees at Walmart, Amazon, Apple, Exxon, Berkshire Hathaway, and more have taken this test and have gotten hired depending on their results. 
-
-It is important to not disregard the other uses of this test such as to determine who and what types of people would fit into the work and team culture, etc. Or the other general uses, such as in determining personal xxxxxxxxxx. 
-
-I, for sure, resonated with the results and the information backing it. That isn't to say that I agree with the methods of companies mandating this test to fit millions of employees into 16 different personalities. Nor do I believe that these tests consider the "uniqueness" of every individual person. 
-
-Failing my original idea to find trends between top 100 revenue-generating companies in the US and career options for the 16 personality types, I decided to take a more personal approach and dive deeper into my own personality type. Using the data that I had already aggregated from my failed attempt, I used the information and data existing to back up the "ideal" career options for an Introverted Intuitive Feeling Judging (INFJ) personality type. 
-
-Interestingly, I further found that XX% of 22 million respondents(test takers) resulted with the INFJ type.
-
-According to the 
-
 
 ## Method and Medium
 > *In a few sentences, document how you plan on completing your final project. Using Shorthand?*
