@@ -76,7 +76,7 @@ I can do this by...
 
 After taking the Myers-Briggs Type Indicator test, also known as the 16 Personality test, my results reflected the INFJ personality type. It is very interesting and left me wondering how 130 questions categorized me into one of 16 personalities. Let alone, another interesting aspect is how Fortune 500 companies mandate an MBTI test to determine hiring. This means most employees at Walmart, Amazon, Apple, Exxon, Berkshire Hathaway, and more have taken this test and have gotten hired depending on their results. 
 
-It is important to not disregard the other uses of this test such as to determine who and what types of people would fit into the work and team culture, etc. 
+It is important to not disregard the other uses of this test such as to determine who and what types of people would fit into the work and team culture, etc. Or the other general uses, such as in determining personal xxxxxxxxxx. 
 
 I, for sure, resonated with the results and the information backing it. That isn't to say that I agree with the methods of companies mandating this test to fit millions of employees into 16 different personalities. Nor do I believe that these tests consider the "uniqueness" of every individual person. 
 
