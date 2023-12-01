@@ -39,13 +39,24 @@ According to the
 ## User Research and Interviews
 
 #### User research Protocol
-  a. The target audience you hope to reach with your story:
-  b. Approach to identifying representative individuals to interview:
-  c. Interview script:
+  a. **The target audience you hope to reach with your story**:
+  b. **Approach to identifying representative individuals to interview**:
+  - one interviewee who has taken the MBTI test before:
+  - one interviewee who has not taken the MBTI test but has heard of it:
+  - one interviewee who xxx:
+
+  c. **Interview script**:
+  1. What story is being told? Can you tell me what you think this is?
+  2. Is there any part of the story you find surprising or confusing?
+  3. Do the visuals help support the story? Were they engaging?
+  4. Who do you think is the intended audience for this?
+  5. Are there any areas where you think the story can be improved or made more impactful?
+  6. Did the story and information presented inspire any actions?
+  
   d. **Documented Findings** from your interviews:
     - Findings from three interviewees:
     
-  e. Changes that I plan on implementing to my visualizations next week to address the issues identified: 
+  e. **Changes that I plan on implementing to my visualizations next week to address the issues identified**: 
 
 
 Interview Script:
