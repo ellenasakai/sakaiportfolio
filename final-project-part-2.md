@@ -55,6 +55,37 @@ According to the
   
   d. **Documented Findings** from your interviews:
     - Findings from three interviewees:
+_Interviewee 1:_    
+| Questions | xx |
+|-----------|---------------------|
+| What story is being told? Can you tell me what you think this is? | "xx" |
+| Is there any part of the story you find surprising or confusing? | "xx." |
+| Do the visuals help support the story? Were they engaging? | "xx." |
+| Who do you think is the intended audience for this?| "xx." |
+| Are there any areas where you think the story can be improved or made more impactful? | "xx." |
+| Did the story and information presented inspire any actions? | "xx." |
+
+_Interviewee 2:_    
+| Questions | xx |
+|-----------|---------------------|
+| What story is being told? Can you tell me what you think this is? | "xx" |
+| Is there any part of the story you find surprising or confusing? | "xx." |
+| Do the visuals help support the story? Were they engaging? | "xx." |
+| Who do you think is the intended audience for this?| "xx." |
+| Are there any areas where you think the story can be improved or made more impactful? | "xx." |
+| Did the story and information presented inspire any actions? | "xx." |
+
+_Interviewee 3:_    
+| Questions | xx |
+|-----------|---------------------|
+| What story is being told? Can you tell me what you think this is? | "xx" |
+| Is there any part of the story you find surprising or confusing? | "xx." |
+| Do the visuals help support the story? Were they engaging? | "xx." |
+| Who do you think is the intended audience for this?| "xx." |
+| Are there any areas where you think the story can be improved or made more impactful? | "xx." |
+| Did the story and information presented inspire any actions? | "xx." |
+
+
     
   e. **Changes that I plan on implementing to my visualizations next week to address the issues identified**: 
 
