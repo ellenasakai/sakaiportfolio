@@ -90,8 +90,5 @@ _Interviewee 3:_
   e. **Changes that I plan on implementing to my visualizations next week to address the issues identified**: 
 
 
-Interview Script:
-1. What story is being told?
-
 
 ## Moodboards and Personas
