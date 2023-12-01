@@ -21,7 +21,14 @@ Visualization 2: xx
 | Conflict | As the tool remains a very powerful form of assessment, one might combat this by pointing out the ethical concerns and validity of measuring innumerable amounts of human personalities. Personally, as an INFJ, using the existing data I found, it is said that this personality type tends to go for careers within the xxx field.|
 | Resolution | It is important to redetermine whether personality tests have an accurate say on one's hiring determination. Practicing other forms and creating more personable ways of determining personality types is necessary. |
 
-New CALL TO ACTION:
+
+As a reader, I want to **xx.** This will allow me to **xx.**   
+
+New CALL TO ACTION: I can do this by...
+- suggesting that employers should implement in-person team activities (such as during interview processes) rather than taking a personality test.
+- sharing this information with others who might not be aware of how broadly used these tests are.
+- considering the proper and ethical uses of this test
+
 
 
 It is important to not disregard the other uses of this test such as to determine who and what types of people would fit into the work and team culture, etc. Or the other general uses, such as in determining personal xxxxxxxxxx. 
