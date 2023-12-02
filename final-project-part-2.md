@@ -45,7 +45,7 @@ Using the data that I had already aggregated from my failed attempt, I used the 
   vizElement.parentNode.insertBefore(scriptElement, vizElement);             
 </script>
 
-Visualization 1 depicts the percentage of the 16 different personality types. Narrowing the scope down, I chose to create 2 personas where 1 carries the INFJ personality (me) and the other carrying the ENTP personality type. Looking at viz 1, we can see that there are 7.55% of INFJ's and 2.32% of ENTP's from the 22 million test respondents in the United States. 
+Visualization 1 depicts the percentage of the 16 different personality types. Narrowing the scope down, I chose to create two personas where one carries the INFJ personality (me) and the other carrying the ENTP personality type. Looking at viz 1, we can see that there are 7.55% of INFJ's and 2.32% of ENTP's from the 22 million test respondents in the United States. 
 
 > source: “United States Personality Profile | Country Personality Profiles | 16Personalities.” Accessed December 1, 2023. https://www.16personalities.com/country-profiles/united-states.
 
@@ -58,10 +58,9 @@ After taking the test and reading the results:
 I, for sure, resonated with the results and the information backing it. That isn't to say that I agree with the methods of companies mandating this test to fit millions of employees into 16 different personalities. Nor do I believe that these tests consider the "uniqueness" of every individual person. 
 
 
-
 ## User Research and Interviews
 
-#### User research Protocol
+#### User Research Protocol
   a. **The target audience you hope to reach with your story**: The target audience would be the general population. Considering the MBTI test has been around and has multiple uses in different professions and sectors, the story would effectively reach those who are familiar with the test. Further, the story could also be enlightening (or not) to those who have never heard the test. 
   b. **Approach to identifying representative individuals to interview**: 
   - one interviewee who has taken the MBTI test before
@@ -83,12 +82,9 @@ _Interviewee 1:_ Student 20's Male
 |-----------|---------------------|
 | What story is being told? What are your takeaways? | "I think that the story is about using MBTI in the application process for jobs. It looks like, at least from the example, that people might question whether using it as hiring criteria." |
 | Is there any part of the story you find surprising or confusing? Are the visualizations engaging? | "What surprised me is that Fortune 500 companies use this test. Yes the visualizations are engaging." |
-| Do the visuals help support the story? | "I think the intended audience is people applying for jobs, maybe entry level to give them an idea what to expect." |
-| Who do you think is the intended audience for this?| "
-Other than filling it out, I think that more explanation of the graphs and visualizations would help put them in context of the story and overall message of this website." |
-| Are there any areas where you think the story can be improved or made more impactful? | "xx." |
+| Who do you think is the intended audience for this?| "I think the intended audience is people applying for jobs, maybe entry level to give them an idea what to expect."|
+| Are there any areas where you think the story can be improved or made more impactful? | "Other than filling it out, I think that more explanation of the graphs and visualizations would help put them in context of the story and overall message of this website." |
 | Did the story and information presented inspire any actions? | "It inspired me to personally research and dig into why those companies use them." |
-
 
 _Interviewee 2:_ Working Adult 20's Female
 | Questions | xx |
@@ -106,32 +102,25 @@ _Interviewee 3:_ Student Adult 20's Male
 | What story is being told? What are your takeaways? | "MBTI is a questionnaire that can help people understand what type of personality they have to benefit their personal life and for companies to see what type of people to hire.  My takeaway is this testing can help people over the world learn about different personalities." |
 | Is there any part of the story you find surprising or confusing? Are the visualizations engaging? | "Don’t find any specific part confusing but did find the different percentages of specific aspects of a personality surprising.  The graphs and visuals were engaging as well." |
 | Who do you think is the intended audience for this?| "I think the intended audience for this is for companies such as healthcare but also for individuals." |
-| Are there any areas where you think the story can be improved or made more impactful? | "I don’t think there are any parts or areas that need to be improved.  (Other than the parts that r missing." |
+| Are there any areas where you think the story can be improved or made more impactful? | "I think more basic visualizations in the beginning will help." |
 | Did the story and information presented inspire any actions? | " After reading and learning about this I am inspired to learn more about my personality." |
 
 _Interviewee 4:_ Student Adult 20's Female    
 | Questions | xx |
 |-----------|---------------------|
-| What story is being told? What are your takeaways? | "xx" |
-| Is there any part of the story you find surprising or confusing? Are the visualizations engaging? | "xx." |
-| Do the visuals help support the story? | "xx." |
-| Who do you think is the intended audience for this?| "xx." |
-| Are there any areas where you think the story can be improved or made more impactful? | "xx." |
-| Did the story and information presented inspire any actions? | "xx." |
-
+| What story is being told? What are your takeaways? | " the different personality types by profession?" |
+| Is there any part of the story you find surprising or confusing? Are the visualizations engaging? | "I think a more descriptive title could maybe help for those who aren’t familiar with the personality test and the different types. I think the visuals are clear and clean!" |
+| Who do you think is the intended audience for this?| "Anyone with a psychology background or someone trying to understand different professions." |
+| Are there any areas where you think the story can be improved or made more impactful? | "maybe another graph showing personality types by demographic?" |
+| Did the story and information presented inspire any actions? | "not quite sure what this means…" |
 
     
   e. **Changes that I plan on implementing to my visualizations next week to address the issues identified**: 
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
+| #| Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-
-
-
-## Sources
-> 1. “United States Personality Profile | Country Personality Profiles | 16Personalities.” Accessed December 1, 2023. https://www.16personalities.com/country-profiles/united-states.
+| 1 | Add titles and additional graphs to preface information/story |
+| 2 | Continue story and make more clear on who the audience is/ intended to be|
+| 3 | Additional research on "entry-level" |
+| 4 | Further information on uses of MBTI testing |
 
