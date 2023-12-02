@@ -22,6 +22,7 @@ It is important to not disregard the other uses of this test such as to determin
 Failing my original idea to find trends between **top 100 revenue-generating companies in the US** and **career options for the 16 personality types**, I decided to take a more personal approach and dive deeper into my personality type. After taking the Myers-Briggs Type Indicator test, also known as the 16 Personality test, my results reflected the Introverted Intuitive Feeling Judging (INFJ) personality type. 
 
 It is very interesting and left me wondering how 130 questions categorized me into one of 16 personalities. Let alone, another interesting aspect is how Fortune 500 companies mandate MBTI testing as a hiring criterion. This means most employees at Walmart, Amazon, Apple, Exxon, Berkshire Hathaway, and more have taken this test and have gotten hired or not depending on their results. Obviously, that isn't the only factor in accepting an applicant.
+> source: 
 
 Using the data that I had already aggregated from my failed attempt, I used the information existing to back up the "ideal" career options for the personality of an INFJ and ESTP as personas.
 
@@ -41,16 +42,16 @@ Using the data that I had already aggregated from my failed attempt, I used the 
   vizElement.parentNode.insertBefore(scriptElement, vizElement);             
 </script>
 
-
-> To further describe viz 1, there are 7.55% of INFJ's and 2.32% of ENTP's from the 22 million test respondents in the United States. Overall, the visualization depicts the percentage of the 16 different personality types.
-
+> Visualization 1 depicts the percentage of the 16 different personality types. Narrowing the scope down, I chose to create 2 personas where 1 carries the INFJ personality (me) and the other carrying the ENTP personality type. Looking at viz 1, we can see that there are 7.55% of INFJ's and 2.32% of ENTP's from the 22 million test respondents in the United States. 
 
 <img src= 'Untitled design.jpg' width="2500"/>
-> This visualization represents the recommended career types 
+> This visualization represents the recommended career types for the two personas: INFJ and ENTP. I decided to choose these two specific types as they are the polar opposite of each other and I wanted to see if there is a story to be told when comparing the two.
+
 > source: “United States Personality Profile | Country Personality Profiles | 16Personalities.” Accessed December 1, 2023. https://www.16personalities.com/country-profiles/united-states.
+
 > source: "Suggested Careers for MBTI". Illinois Community College Board. Accessed November 30, 2023. http://www2.iccb.org/iccb/wp-content/pdfs/adulted/tdl_bridge_curriculum/tdl_career_awareness/tdl_career_aware_resource_file/Suggested_Careers_for_MBTI.pdf
 
-
+After taking the test and reading the results:
 I, for sure, resonated with the results and the information backing it. That isn't to say that I agree with the methods of companies mandating this test to fit millions of employees into 16 different personalities. Nor do I believe that these tests consider the "uniqueness" of every individual person. 
 
 
