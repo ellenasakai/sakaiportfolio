@@ -8,9 +8,9 @@
 | Conflict | As the tool remains a very powerful form of assessment, one might combat this by pointing out the ethical concerns and validity of measuring innumerable amounts of human personalities. Personally, as an INFJ, using the existing data I found, it is said that this personality type tends to go for careers within the xxx field.|
 | Resolution | It is important to redetermine whether personality tests have an accurate say on one's hiring determination. Practicing other forms and creating more personable ways of determining personality types is necessary. |
 
-As a reader, I want to **xx.** This will allow me to **xx.**   
+As a reader, I want to **xx.** This will allow me to **xx.**
 
-New CALL TO ACTION: I can do this by...
+CALL TO ACTION: I can do this by...
 - suggesting that employers should implement in-person team activities (such as during interview processes) rather than taking a personality test.
 - sharing this information with others who might not be aware of how broadly used these tests are.
 - considering the proper and ethical uses of this test
@@ -41,11 +41,14 @@ Using the data that I had already aggregated from my failed attempt, I used the 
   vizElement.parentNode.insertBefore(scriptElement, vizElement);             
 </script>
 
-To further describe viz 1, there are 7.55% of INFJ's and 2.32% of ENTP's from the 22 million test respondents in the United States. Overall, the visualization depicts the percentage of the 16 different personality types.
+
+> To further describe viz 1, there are 7.55% of INFJ's and 2.32% of ENTP's from the 22 million test respondents in the United States. Overall, the visualization depicts the percentage of the 16 different personality types.
 
 
 <img src= 'Untitled design.jpg' width="2500"/>
+> This visualization represents the recommended career types 
 > source: “United States Personality Profile | Country Personality Profiles | 16Personalities.” Accessed December 1, 2023. https://www.16personalities.com/country-profiles/united-states.
+> source: "Suggested Careers for MBTI". Illinois Community College Board. Accessed November 30, 2023. http://www2.iccb.org/iccb/wp-content/pdfs/adulted/tdl_bridge_curriculum/tdl_career_awareness/tdl_career_aware_resource_file/Suggested_Careers_for_MBTI.pdf
 
 
 I, for sure, resonated with the results and the information backing it. That isn't to say that I agree with the methods of companies mandating this test to fit millions of employees into 16 different personalities. Nor do I believe that these tests consider the "uniqueness" of every individual person. 
