@@ -45,7 +45,7 @@ To further describe viz 1, there are xx% of INFJ's and xx% of ENTP's from the 22
 
 
 
-
+<img src="mbti.jpeg" width="400"/>
 
 
 
