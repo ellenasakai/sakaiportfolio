@@ -45,7 +45,7 @@ To further describe viz 1, there are xx% of INFJ's and xx% of ENTP's from the 22
 
 
 <img src= 'Untitled design.jpg' width="2500"/>
-
+> source: “United States Personality Profile | Country Personality Profiles | 16Personalities.” Accessed December 1, 2023. https://www.16personalities.com/country-profiles/united-states.
 
 
 I, for sure, resonated with the results and the information backing it. That isn't to say that I agree with the methods of companies mandating this test to fit millions of employees into 16 different personalities. Nor do I believe that these tests consider the "uniqueness" of every individual person. 
@@ -107,3 +107,9 @@ _Interviewee 3:_
 
 
 ## Moodboards and Personas
+
+
+
+## Sources
+> 1. “United States Personality Profile | Country Personality Profiles | 16Personalities.” Accessed December 1, 2023. https://www.16personalities.com/country-profiles/united-states.
+
