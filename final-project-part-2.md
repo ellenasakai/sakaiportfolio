@@ -15,7 +15,8 @@ CALL TO ACTION: I can do this by...
 - sharing this information with others who might not be aware of how broadly used these tests are.
 - considering the proper and ethical uses of this test
 
-It is important to not disregard the other uses of this test such as to determine who and what types of people would fit into the work and team culture, etc. Or the other general uses, such as in determining personal xxxxxxxxxx. 
+It is important to not disregard the other uses of this test such as to determine who and what types of people would fit into the work and team culture, etc. Or the other general uses, such as in determining personal growth and development, understanding interpersonal differences, career counseling, and more. (Myers Briggs Company)
+> source: “Personality Assessment Inventory and Professional Development | The Myers-Briggs Company.” Accessed December 1, 2023. https://www.themyersbriggs.com/en-US/.
 
 ## Final Project Part 2
 
