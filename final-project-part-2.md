@@ -111,6 +111,7 @@ _Interviewee 3:_
 | Did the story and information presented inspire any actions? | " After reading and learning about this I am inspired to learn more about my personality." |
 
 _Interviewee 4:_ 
+
 | Questions | Student Mid 20's Female |
 |-----------|---------------------|
 | What story is being told? What are your takeaways? | " the different personality types by profession?" |
