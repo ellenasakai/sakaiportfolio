@@ -41,7 +41,7 @@ Using the data that I had already aggregated from my failed attempt, I used the 
   vizElement.parentNode.insertBefore(scriptElement, vizElement);             
 </script>
 
-To further describe viz 1, there are xx% of INFJ's and xx% of ENTP's from the 22 million test respondents. Overall, the visualization depicts the % of the 16 different personality types.
+To further describe viz 1, there are 7.55% of INFJ's and 2.32% of ENTP's from the 22 million test respondents in the United States. Overall, the visualization depicts the percentage of the 16 different personality types.
 
 
 <img src= 'Untitled design.jpg' width="2500"/>
@@ -55,11 +55,12 @@ I, for sure, resonated with the results and the information backing it. That isn
 ## User Research and Interviews
 
 #### User research Protocol
-  a. **The target audience you hope to reach with your story**:
-  b. **Approach to identifying representative individuals to interview**:
-  - one interviewee who has taken the MBTI test before:
-  - one interviewee who has not taken the MBTI test but has heard of it:
-  - one interviewee who xxx:
+  a. **The target audience you hope to reach with your story**: The target audience would be the general population. Considering the MBTI test has been around and has multiple uses in different professions and sectors, the story would effectively reach those who are familiar with the test. Further, the story could also be enlightening (or not) to those who have never heard the test. 
+  b. **Approach to identifying representative individuals to interview**: 
+  - one interviewee who has taken the MBTI test before
+  - one interviewee who has not taken the MBTI test
+  - one interviewee who is familiar with the test
+  - I believe that through interviewing these individuals, I will be able to get various perspectives of the story which will allow me to narrow down the focus of the story if need be. I am interested to see feedback from the individual who has not taken the MBTI test before. 
 
   c. **Interview script**:
   1. What story is being told? What are your takeaways?
@@ -104,9 +105,12 @@ _Interviewee 3:_
     
   e. **Changes that I plan on implementing to my visualizations next week to address the issues identified**: 
 
-
-
-## Moodboards and Personas
+| Research synthesis                       | Anticipated changes for Part III                                                |
+|------------------------------------------|---------------------------------------------------------------------------------|
+| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
+|                                          |                                                                                 |
+|                                          |                                                                                 |
+|                                          |                                                                                 |
 
 
 
