@@ -76,7 +76,9 @@ I, for sure, resonated with the results and the information backing it. That isn
   5. Did the story and information presented inspire any actions?
 
   d. **Documented Findings** from your interviews:
+  
     - Findings from three interviewees:
+    
 _Interviewee 1:_   
 
 | Questions | Student Early 20's Male |
@@ -99,6 +101,7 @@ _Interviewee 2:_
 
 
 _Interviewee 3:_ Student Adult 20's Male
+
 | Questions | Working Early 20's Male |
 |-----------|---------------------|
 | What story is being told? What are your takeaways? | "MBTI is a questionnaire that can help people understand what type of personality they have to benefit their personal life and for companies to see what type of people to hire.  My takeaway is this testing can help people over the world learn about different personalities." |
