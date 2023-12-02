@@ -24,6 +24,7 @@ Failing my original idea to find trends between **top 100 revenue-generating com
 
 It is very interesting and left me wondering how 130 questions categorized me into one of 16 personalities. Let alone, another interesting aspect is how Fortune 500 companies mandate MBTI testing as a hiring criterion. This means most employees at Walmart, Amazon, Apple, Exxon, Berkshire Hathaway, and more have taken this test and have gotten hired or not depending on their results. Obviously, that isn't the only factor in accepting an applicant.
 > source: “Myers-Briggs Type Indicator® (MBTI®) | Official Myers Briggs Personality Test.” Accessed December 1, 2023. https://www.themyersbriggs.com/en-US/Products-and-Services/Myers-Briggs.
+
 > source: Ambridge, Ben. “Why Companies Are So Interested in Your Myers-Briggs Type.” JSTOR Daily, September 7, 2022. https://daily.jstor.org/why-companies-are-so-interested-in-your-myers-briggs-type/.
 
 Using the data that I had already aggregated from my failed attempt, I used the information existing to back up the "ideal" career options for the personality of an INFJ and ESTP as personas.
