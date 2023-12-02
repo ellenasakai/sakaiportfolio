@@ -44,9 +44,7 @@ Using the data that I had already aggregated from my failed attempt, I used the 
 To further describe viz 1, there are xx% of INFJ's and xx% of ENTP's from the 22 million test respondents. Overall, the visualization depicts the % of the 16 different personality types.
 
 
-<img src= 'Untitled design.jpg' width="2000"/>
-
-
+<img src= 'Untitled design.jpg' width="2500"/>
 
 
 
