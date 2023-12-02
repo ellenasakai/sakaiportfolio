@@ -1,26 +1,12 @@
 | [back to home page](https://ellenasakai.github.io/sakaiportfolio/) | 
 
-
-## Final Project Part 2
-
-Failing my original idea to find trends between **top 100 revenue-generating companies in the US** and **career options for the 16 personality types**, I decided to take a more personal approach and dive deeper into my personality type. After taking the Myers-Briggs Type Indicator test, also known as the 16 Personality test, my results reflected the Introverted Intuitive Feeling Judging (INFJ) personality type. 
-
-It is very interesting and left me wondering how 130 questions categorized me into one of 16 personalities. Let alone, another interesting aspect is how Fortune 500 companies mandate MBTI testing as a hiring criterion. This means most employees at Walmart, Amazon, Apple, Exxon, Berkshire Hathaway, and more have taken this test and have gotten hired or not depending on their results. Obviously, that isn't the only factor in accepting an applicant.
-
-Using the data that I had already aggregated from my failed attempt, I used the information existing to back up the "ideal" career options for the personality of an INFJ.
-
-To further preface this, there are xx% of INFJ's from the 22 million test respondents. The visualization below depicts the % of the 16 different personality types.
-
-Visualization 1: % of each 16 personality types
-Visualization 2: xx
-
+## Final Project Part 1 Continue
 
 | Outline | set-up, conflict, resolution |
 |---------|------------------------------|
 | Set-Up | Personality tests are a factor in determining hiring opportunities. Companies use MBTI tests to decipher personality types, such as the top 100 Fortune companies. |
 | Conflict | As the tool remains a very powerful form of assessment, one might combat this by pointing out the ethical concerns and validity of measuring innumerable amounts of human personalities. Personally, as an INFJ, using the existing data I found, it is said that this personality type tends to go for careers within the xxx field.|
 | Resolution | It is important to redetermine whether personality tests have an accurate say on one's hiring determination. Practicing other forms and creating more personable ways of determining personality types is necessary. |
-
 
 As a reader, I want to **xx.** This will allow me to **xx.**   
 
@@ -29,26 +15,22 @@ New CALL TO ACTION: I can do this by...
 - sharing this information with others who might not be aware of how broadly used these tests are.
 - considering the proper and ethical uses of this test
 
-
-
 It is important to not disregard the other uses of this test such as to determine who and what types of people would fit into the work and team culture, etc. Or the other general uses, such as in determining personal xxxxxxxxxx. 
 
+## Final Project Part 2
 
+Failing my original idea to find trends between **top 100 revenue-generating companies in the US** and **career options for the 16 personality types**, I decided to take a more personal approach and dive deeper into my personality type. After taking the Myers-Briggs Type Indicator test, also known as the 16 Personality test, my results reflected the Introverted Intuitive Feeling Judging (INFJ) personality type. 
 
-I, for sure, resonated with the results and the information backing it. That isn't to say that I agree with the methods of companies mandating this test to fit millions of employees into 16 different personalities. Nor do I believe that these tests consider the "uniqueness" of every individual person. 
+It is very interesting and left me wondering how 130 questions categorized me into one of 16 personalities. Let alone, another interesting aspect is how Fortune 500 companies mandate MBTI testing as a hiring criterion. This means most employees at Walmart, Amazon, Apple, Exxon, Berkshire Hathaway, and more have taken this test and have gotten hired or not depending on their results. Obviously, that isn't the only factor in accepting an applicant.
 
-
-
-
-
-According to the 
-
+Using the data that I had already aggregated from my failed attempt, I used the information existing to back up the "ideal" career options for the personality of an INFJ and ESTP as personas.
 
 
 ## Wireframes and Storyboards
 
 #### Wireframes
 
+**Visualization 1**
 <div class='tableauPlaceholder' id='viz1701451519782' style='position: relative'><noscript><a href='#'><img alt='16 MBTI Type TrendsCompaison of Roles&#47;Personality Types and Its Proportions ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;finalprojectmbti&#47;Sheet3&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='finalprojectmbti&#47;Sheet3' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;finalprojectmbti&#47;Sheet3&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>              
 <script type='text/javascript'>                  
   var divElement = document.getElementById('viz1701451519782');                   
@@ -58,6 +40,19 @@ According to the
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';              
   vizElement.parentNode.insertBefore(scriptElement, vizElement);             
 </script>
+
+To further describe viz 1, there are xx% of INFJ's and xx% of ENTP's from the 22 million test respondents. Overall, the visualization depicts the % of the 16 different personality types.
+
+
+
+
+
+
+
+
+
+I, for sure, resonated with the results and the information backing it. That isn't to say that I agree with the methods of companies mandating this test to fit millions of employees into 16 different personalities. Nor do I believe that these tests consider the "uniqueness" of every individual person. 
+
 
 
 ## User Research and Interviews
@@ -70,30 +65,29 @@ According to the
   - one interviewee who xxx:
 
   c. **Interview script**:
-  1. What story is being told? Can you tell me what you think this is?
-  2. Is there any part of the story you find surprising or confusing?
-  3. Do the visuals help support the story? Were they engaging?
-  4. Who do you think is the intended audience for this?
-  5. Are there any areas where you think the story can be improved or made more impactful?
-  6. Did the story and information presented inspire any actions?
-  
+  1. What story is being told? What are your takeaways?
+  2. Is there any part of the story you find surprising or confusing? Are the visualizations engaging?
+  3. Who do you think is the intended audience for this?
+  4. Are there any areas where you think the story can be improved or made more impactful?
+  5. Did the story and information presented inspire any actions?
+
   d. **Documented Findings** from your interviews:
     - Findings from three interviewees:
-_Interviewee 1:_    
+_Interviewee 1:_ Student 20's Male   
 | Questions | xx |
 |-----------|---------------------|
-| What story is being told? Can you tell me what you think this is? | "xx" |
-| Is there any part of the story you find surprising or confusing? | "xx." |
+| What story is being told? What are your takeaways? | "xx" |
+| Is there any part of the story you find surprising or confusing? Are the visualizations engaging? | "xx." |
 | Do the visuals help support the story? Were they engaging? | "xx." |
 | Who do you think is the intended audience for this?| "xx." |
 | Are there any areas where you think the story can be improved or made more impactful? | "xx." |
 | Did the story and information presented inspire any actions? | "xx." |
 
-_Interviewee 2:_    
+_Interviewee 2:_ Working Adult 20's Female
 | Questions | xx |
 |-----------|---------------------|
-| What story is being told? Can you tell me what you think this is? | "xx" |
-| Is there any part of the story you find surprising or confusing? | "xx." |
+| What story is being told? What are your takeaways? | "xx" |
+| Is there any part of the story you find surprising or confusing? Are the visualizations engaging? | "xx." |
 | Do the visuals help support the story? Were they engaging? | "xx." |
 | Who do you think is the intended audience for this?| "xx." |
 | Are there any areas where you think the story can be improved or made more impactful? | "xx." |
@@ -102,8 +96,8 @@ _Interviewee 2:_
 _Interviewee 3:_    
 | Questions | xx |
 |-----------|---------------------|
-| What story is being told? Can you tell me what you think this is? | "xx" |
-| Is there any part of the story you find surprising or confusing? | "xx." |
+| What story is being told? What are your takeaways? | "xx" |
+| Is there any part of the story you find surprising or confusing? Are the visualizations engaging? | "xx." |
 | Do the visuals help support the story? Were they engaging? | "xx." |
 | Who do you think is the intended audience for this?| "xx." |
 | Are there any areas where you think the story can be improved or made more impactful? | "xx." |
