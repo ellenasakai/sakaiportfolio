@@ -1,8 +1,23 @@
 | [back to home page](https://ellenasakai.github.io/sakaiportfolio/) |
 
-## Personality Test 
+## Personality Test Project Concept Update
+... I changed my idea. Throughout the development of my story, I found a lot of difficulty in drawing meaningful conclusions, unable to find relevant data. Perhaps conducting more thoughtful research throughout each step was necessary. The project turned out to be infeasible with the amount of time left compared to the time needed to create a meaningful story. Overall, it was an ambitious project however, I learned a lot of lessons and information about personality test usage for hiring processes. 
 
+## Continuing... and the Structure of my new project idea. 
 
+> Adoption in the U.S. - Breaking down trends, policies, and impact
+
+As a reader, I want to learn further about adoption trends in the U.S. and how these trends are changing over time. This will allow me to understand where resources, education, and awareness are lacking for adoptees and families.
+
+Call to Action: Increase support and resources for adoptees and families and reduce the misconceptions about adoption. Continue educating each other to improve the adoption/foster care system.
+
+Data Visualizations to make:
+- Adopted, in foster homes, in orphanages
+- Overall adoption trends in the U.S.
+- By State count
+- Gender, Age, Demographic
+- Interracial adoption
+- Adoption policy changes in the U.S.
 
 Putting it all together
 - implementing user feedback
