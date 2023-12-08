@@ -25,6 +25,11 @@ Putting it all together
 - final design decisions
 - final thoughts (link to the previous sections)
 
+
+
+
+## Tableau Data Visualizations
+
 > Comparison of Proportions: Total Adopted Children VS. Total Children (in the US)
 
 <div class='tableauPlaceholder' id='viz1701911429386' style='position: relative'><noscript><a href='#'><img alt='Comparison of Proportions: Total Adopted Children VS. Total Children (in the US)Rate of change in the proportion of total adopted children and overall children populations by ethnicity ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ad&#47;adoption5&#47;Comparison&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='adoption5&#47;Comparison' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ad&#47;adoption5&#47;Comparison&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>              
