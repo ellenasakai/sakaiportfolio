@@ -1,4 +1,4 @@
-| [Home Page](https://ellenasakai.github.io/sakaiportfolio/) |
+| [Home Page](https://ellenasakai.github.io/sakaiportfolio/) | [Final Project Part 2](final-project-part-2) | [Final Project Part 3](final-project-part-3) |
 
 ## Final Project Part I (Version 2)
 
