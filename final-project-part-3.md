@@ -19,6 +19,8 @@ Data Visualizations to make:
 - Interracial adoption
 - Adoption policy changes in the U.S.
 
+The audience for this topic: general public, children's education and adoption policy and lawmakers, researchers, support organizations for children, prospective adoptive parents, parents who have adopted, any member of the public who wants to learn more about the adoption process or have the means to help.
+
 ## Tableau Data Visualizations and Story
 
 From looking at recent data, about 54,000 children were adopted in 2021 leaving 113,589 still in the foster care system waiting to be adopted. Here is a quick visualization showing the overall trend in adoption from 2012 to 2021. We see a steady increase, peaking in 2019, then trending down most likely due to covid 19 reasons. 
