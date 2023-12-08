@@ -9,6 +9,9 @@ Public Portfolio for Telling Stories with Data 2023
 # What I Hope to Learn
 Through telling stories with data, I hope to be able to craft and design a story tailored for a specific audience regarding a subject matter that is coherent and impactful while driving engagement and well communicated. This course will allow me to continue my creative practice when crafting data visualizations and simultaneously enhance my proficiency in conducting user research and offering informed recommendations.  I would also like to further challenge myself by gaining practical and technical experience through programs and software that are introduced to us in the course. 
 
+## Final Project Concept Clarification
+> I started with an ambitious concept, looking into issues behind mandating personality tests in hiring settings. Specifically, I wanted to compare professions in Fortune 100 companies and the suggested professions resulting from a personality test. I later figured that the data publically available online was data aggregated from a free and evolved version of the "MBTI" personality test type I chose, rather than the actual MBTI data results which are private and inaccessible. I attempted to continue with the project concept by narrowing it down to a personal exploration of my personality type, however concluded with results I was not happy with, also struggling to make data visualizations reflecting my story. I decided to place a hard stop on this concept and continued the final project with a completely different topic. My final presentation narrated the story of adoption in US. 
+
 # Assignment Deadlines
 
 ## Week 2 Assignment: 
