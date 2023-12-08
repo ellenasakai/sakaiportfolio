@@ -93,8 +93,4 @@ A short description explaining the decision to shift gears is mentioned at the t
 
 Before presenting the final presentation, I was able to conduct short user research feedback sessions by asking some of my peers and friends to read through my shortened shorthand story. I ended up getting very useful feedback and I was able to make changes to improve how the story was being told. Some of my peers had mentioned that the visualizations needed a little more context and clarity in titles would have been useful. Although broad, the overall major statistics and visualizations effectively framed the story. From having struggled A LOT in drawing meaningful stories from my limited findings with the personality test, the process the second time around was a lot more efficient. With plentiful data, conclusions were able to be drawn to create an interesting story. I ended with a call to action that supporting policies, educating each other, and sharing opportunities are ways to support the adoption and foster case system and children in the US. 
 
-Link to Shorthand: 
-
-
-4. A Word document that includes the text for your final report submitted through TurnItIn. 
-
+Link to Shorthand: https://carnegiemellon.shorthandstories.com/adoption-in-the-u-s/index.html
