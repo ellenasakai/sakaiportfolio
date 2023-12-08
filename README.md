@@ -9,20 +9,20 @@ Public Portfolio for Telling Stories with Data 2023
 # What I Hope to Learn
 Through telling stories with data, I hope to be able to craft and design a story tailored for a specific audience regarding a subject matter that is coherent and impactful while driving engagement and well communicated. This course will allow me to continue my creative practice when crafting data visualizations and simultaneously enhance my proficiency in conducting user research and offering informed recommendations.  I would also like to further challenge myself by gaining practical and technical experience through programs and software that are introduced to us in the course. 
 
-# Portfolio
+# Assignment Deadlines
 
 ## Week 2 Assignment: 
 *Due: 11:59PM, 11/06 Monday*
 
-### Data Visualization #1 
+### Data Visualization #1 - [Visualizing Government Debt](governmentdebt) 
 ### Crafting for Clarity- Sketching Exercise Week 2
 
 ## Week 3 Assignment: Critique by Design with Tableau (MakeoverMonday)
 *Due: 11:59PM, 11/15 Wednesday*
 
-### Critique by Design
+### Critique by Design - [Visualizing Protein Costs and Categories](protein)
 
-## Week 4 Assignment: 
+## Week 4 Assignment:
 *Due: 11:59PM, 11/21 Tuesday*
 
 ### Choosing Chart Types- Sketching Exercise Week 4
@@ -34,13 +34,12 @@ Through telling stories with data, I hope to be able to craft and design a story
 *Due: 11:59PM, 11/28 Tuesday*
 
 ### Practicing Persuasion- Sketching Exercise Week 5
-### Final Project- Part II
+### Final Project- [Part II](final-project-part-2)
 
 ## Week 6 Assignment
 *Due: 11:59PM, 12/08 Friday*
 
-### Final Project- Part III
+### Final Project- [Part III](final-project-part-3)
 ### Cleaning up Online Portfolio
-
 
 ## Week 7 Final Presentations
