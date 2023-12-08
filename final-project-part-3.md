@@ -1,4 +1,4 @@
-| [back to home page](https://ellenasakai.github.io/sakaiportfolio/) |
+| [Home Page](https://ellenasakai.github.io/sakaiportfolio/) | [Final Project Part 1](final-project-part-one) | [Final Project Part 2](final-project-part-2) |
 
 ## Personality Test Project Concept Update
 ... I changed my idea. Throughout the development of my story, I found a lot of difficulty in drawing meaningful conclusions, unable to find relevant data. Perhaps conducting more thoughtful research throughout each step was necessary. The project turned out to be infeasible with the amount of time left compared to the time needed to create a meaningful story. Overall, it was an ambitious project however, I learned a lot of lessons and information about personality test usage for hiring processes. 
