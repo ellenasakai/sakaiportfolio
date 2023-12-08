@@ -43,3 +43,4 @@ Through telling stories with data, I hope to be able to craft and design a story
 ### Cleaning up Online Portfolio
 
 ## Week 7 Final Presentations
+### [shorthand link](https://carnegiemellon.shorthandstories.com/adoption-in-the-u-s/index.html)
